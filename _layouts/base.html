@@ -1,0 +1,37 @@
+---
+common-css:
+  - "/assets/css/bootstrap.min.css"
+  - "/assets/css/bootstrap-social.css"
+  - "/assets/css/main.css"
+common-ext-css:
+  - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+  - "assets/fonts/Lora.css"
+  - "assets/fonts/OpenSans.css"
+common-ext-js:
+  - href: "assets/js/popper.min.js"
+    sri: "sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+common-js:
+  - "/assets/js/jquery-3.5.1.slim.min.js"
+  - "/assets/js/bootstrap.min.js"
+  - "/assets/js/main.js"
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.language | default: site.language | default: 'en' }}">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2020 -->
+  {% include head.html %}
+
+  <body>
+
+    {% include gtm_body.html %}
+
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    {% include footer-scripts.html %}
+
+  </body>
+</html>
