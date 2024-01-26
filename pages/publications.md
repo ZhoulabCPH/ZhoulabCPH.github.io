@@ -16,8 +16,12 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 
 ### 2024
 - **Zhang Y#**, **Yang Z#**, Chen R#, Zhu Y#, Liu L, Dong J, **Zhang Z**, Sun X, Ying J, Lin D\*, Yang L\* & **`Zhou M*`**. Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer. _**npj Digital Medicine**_, 2024, 7(1):15.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38238410)
+<span class='__dimensions_badge_embed__' data-pmid='38238410' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Shi R#**, **Wu Y#**, Chen H#, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. The causal effect of oxidative stress on the risk of glaucoma. _**Heliyon**_, 2024, 10(3):E24852.
 - **Yang Z#**, **Zhang Y#**, **Zhuo L**, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Prediction of prognosis and treatment response in ovarian cancer patients from histopathology images using graph deep learning: a multicenter retrospective study. _**European Journal of Cancer**_, 2024, 199:113532.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38241820)
+<span class='__dimensions_badge_embed__' data-pmid='38241820' data-style='large_rectangle' style='display: inline-block;'></span>
 - Li CX#, **Chen H#**, Kermani NZ, Adcock IM, Sköld CM, **`Zhou M*`**, Wheelock ÅM\*, U-BIOPRED study group. Consensus clustering with missing labels (ccml): a consensus clustering tool for multi-omics integrative prediction in cohorts with unequal sample coverage. _**Briefings in Bioinformatics**_, 2024, 25(1):bbad501.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38205966)
 <span class='__dimensions_badge_embed__' data-pmid='38205966' data-style='large_rectangle' style='display: inline-block;'></span>
