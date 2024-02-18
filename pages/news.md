@@ -8,6 +8,9 @@ permalink: /news
 
 ### 2024
 
+#### February
+- Congratulations! Yaxuan and Ronghua's paper about *Effect of the gut microbiome in glaucoma risk from the causal perspective* was published on [BMJ Open Ophthalmol](https://doi.org/10.1136/bmjophth-2023-001547)!
+
 #### January
 - Congratulations! Ronghua and Yaxuan's paper about *The causal effect of oxidative stress on the risk of glaucoma* was accepted by _**Heliyon**_!
 - Congratulations to Yaxuan and Ronghua on the acceptance of their research paper titled *The effect of the gut microbiome in glaucoma risk from the causal perspective* by _**BMJ Open Ophthalmology**_!

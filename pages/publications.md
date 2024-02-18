@@ -15,10 +15,15 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
+- **Wu Y#**, **Shi R#**, Chen H, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. Effect of the gut microbiome in glaucoma risk from the causal perspective. _**BMJ Open Ophthalmology**_, 2024, 9(1):e001547.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38286567)
+<span class='__dimensions_badge_embed__' data-pmid='38286567' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Zhang Y#**, **Yang Z#**, Chen R#, Zhu Y#, Liu L, Dong J, **Zhang Z**, Sun X, Ying J, Lin D\*, Yang L\* & **`Zhou M*`**. Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer. _**npj Digital Medicine**_, 2024, 7(1):15.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38238410)
 <span class='__dimensions_badge_embed__' data-pmid='38238410' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Shi R#**, **Wu Y#**, Chen H#, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. The causal effect of oxidative stress on the risk of glaucoma. _**Heliyon**_, 2024, 10(3):E24852.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38317903)
+<span class='__dimensions_badge_embed__' data-pmid='38317903' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Yang Z#**, **Zhang Y#**, **Zhuo L**, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Prediction of prognosis and treatment response in ovarian cancer patients from histopathology images using graph deep learning: a multicenter retrospective study. _**European Journal of Cancer**_, 2024, 199:113532.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38241820)
 <span class='__dimensions_badge_embed__' data-pmid='38241820' data-style='large_rectangle' style='display: inline-block;'></span>
