@@ -8,6 +8,11 @@ permalink: /news
 
 ### 2024
 
+#### March
+- Congratulations to Hongyan's paper about *Inference of developmental hierarchy and functional states of exhausted T cells from epigenetic profiles with deep learning* accepted by _**Journal of Chemical Information and Modeling**_!
+- Congratulations! Modi's paper about *Genetic insights into association and causality between blood metabolites and Alzheimer's disease* was accepted by _**Journal of Alzheimer's Disease**_!
+
+
 #### February
 - Congratulations! Yaxuan and Ronghua's paper about *Effect of the gut microbiome in glaucoma risk from the causal perspective* was published on [BMJ Open Ophthalmol](https://doi.org/10.1136/bmjophth-2023-001547)!
 
