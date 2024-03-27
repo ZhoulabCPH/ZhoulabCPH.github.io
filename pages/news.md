@@ -9,7 +9,7 @@ permalink: /news
 ### 2024
 
 #### March
-- Meng has been selected as one of the 2023 Most Cited Cited Chinese Researchers (released by Elsevier). Congratulations to Meng!
+- Meng has been selected as one of the 2023 Most Cited Chinese Researchers (released by Elsevier). Congratulations to Meng!
 <img src="assets/img/zhou_scopus.jpg" class="d-block" height="399px" >
 
 - Congratulations to Hongyan's paper about *Inference of developmental hierarchy and functional states of exhausted T cells from epigenetic profiles with deep learning* accepted by _**Journal of Chemical Information and Modeling**_!
