@@ -3,7 +3,7 @@ title: Ke Xu
 layout: people
 permalink: /people/master2021_xuke.jpg
 status: Student
-pname: Xu Ke
+pname: Ke Xu
 position: Master student
 grade: 2021
 office: 

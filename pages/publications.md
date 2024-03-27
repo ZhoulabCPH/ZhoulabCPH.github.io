@@ -178,7 +178,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 <span class='__dimensions_badge_embed__' data-pmid='32496512' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2019
-- **`Zhou M#`**, **Zhao H#**, **Wang X**, **`Sun J*`**, **Su J\***. Analysis of long noncoding RNAs highlights region-specific altered expression patterns and diagnostic roles in Alzheimer&\*39;s disease. _**Briefings in Bioinformatics**_, 2019, 20(2): 598-608.
+- **`Zhou M#`**, **Zhao H#**, **Wang X**, **`Sun J*`**, **Su J\***. Analysis of long noncoding RNAs highlights region-specific altered expression patterns and diagnostic roles in Alzheimer's disease. _**Briefings in Bioinformatics**_, 2019, 20(2): 598-608.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29672663)
 <span class='__dimensions_badge_embed__' data-pmid='29672663' data-style='large_rectangle' style='display: inline-block;'></span>
 - **`Sun J#`**, **Bao S**, Xu D, **Zhang Y**, **Su J**, Liu J, Hao D\*, **`Zhou M*`**. Large-scale integrated analysis of ovarian cancer tumors and cell lines identifies an individualized gene expression signature for predicting response to platinum-based chemotherapy. _**Cell death & disease**_, 2019, 10(9):661.
