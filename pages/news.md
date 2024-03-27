@@ -10,7 +10,7 @@ permalink: /news
 
 #### March
 - Meng has been selected as one of the 2023 Most Cited Cited Chinese Researchers (released by Elsevier). Congratulations to Meng!
-<img src="assets/img/zhou_scopus.jpg" class="d-block" height="55rem" >
+<img src="assets/img/zhou_scopus.jpg" class="d-block" height="300px" >
 
 - Congratulations to Hongyan's paper about *Inference of developmental hierarchy and functional states of exhausted T cells from epigenetic profiles with deep learning* accepted by _**Journal of Chemical Information and Modeling**_!
 - Congratulations! Modi's paper about *Genetic insights into association and causality between blood metabolites and Alzheimer's disease* was accepted by _**Journal of Alzheimer's Disease**_!
