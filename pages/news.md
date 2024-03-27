@@ -9,7 +9,7 @@ permalink: /news
 ### 2024
 
 #### March
-- Meng has been selected as one of the 2024 Most Cited Cited Chinese Researchers (released by Elsevier). Congratulations to Meng!
+- Meng has been selected as one of the 2023 Most Cited Cited Chinese Researchers (released by Elsevier). Congratulations to Meng!
 	<div class="carousel-item active" style="height: 25rem">
 	  <img src="assets/img/zhou_scopus.jpg" class="d-block w-100">
 	</div>
