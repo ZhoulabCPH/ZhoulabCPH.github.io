@@ -18,7 +18,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 - **Zhai M#**, Zhang Y#, **Yan D**, Wang Y, Li W\*, **`Sun J*`**. Genetic Insights into the Association and Causality Between Blood Metabolites and Alzheimer's Disease. _**Journal of Alzheimer’s Disease**_, 2024, 98(3):885-896.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38489174)
 <span class='__dimensions_badge_embed__' data-pmid='38489174' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Chen H**, **Yan D**, **`Sun J*`**, **`Zhou M*`**. Inference of Developmental Hierarchy and Functional States of Exhausted T Cells from Epigenetic Profiles with Deep Learning. _**Journal of Chemical Information and Modeling**_, 2024, doi:10.1021/acs.jcim.4c00261.
+- **Chen H**, **Yan D**, **`Sun J*`**, **`Zhou M*`**. Inference of Developmental Hierarchy and Functional States of Exhausted T Cells from Epigenetic Profiles with Deep Learning. _**Journal of Chemical Information and Modeling**_, 2024, 64(8):3579-3591.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38545680)
 <span class='__dimensions_badge_embed__' data-pmid='38545680' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Wu Y#**, **Shi R#**, Chen H, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. Effect of the gut microbiome in glaucoma risk from the causal perspective. _**BMJ Open Ophthalmology**_, 2024, 9(1):e001547.
