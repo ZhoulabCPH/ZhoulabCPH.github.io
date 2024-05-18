@@ -36,14 +36,14 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 - Li CX#, **Chen H#**, Kermani NZ, Adcock IM, Sköld CM, **`Zhou M*`**, Wheelock ÅM\*, U-BIOPRED study group. Consensus clustering with missing labels (ccml): a consensus clustering tool for multi-omics integrative prediction in cohorts with unequal sample coverage. _**Briefings in Bioinformatics**_, 2024, 25(1):bbad501.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38205966)
 <span class='__dimensions_badge_embed__' data-pmid='38205966' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Li K#**, Zhang R#, Wen F#, Zhao Y, Meng F, Li Q, Hao A, Yang B, Lu Z\*, Cui Y\*, **`Zhou M*`**. Single-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma. _**Hepatology**_, 2024, 79(6):1293-1309.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37972953)
+<span class='__dimensions_badge_embed__' data-pmid='37972953' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2023
 - Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2023, S1933-0219(23)00091-0.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38007004)
 <span class='__dimensions_badge_embed__' data-pmid='38007004' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Li K#**, Zhang R#, Wen F#, Zhao Y, Meng F, Li Q, Hao A, Yang B, Lu Z\*, Cui Y\*, **`Zhou M*`**. Single-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma. _**Hepatology**_, 2023, doi: 10.1097/HEP.0000000000000673.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37972953)
-<span class='__dimensions_badge_embed__' data-pmid='37972953' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, 167:107616.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37922601)
 <span class='__dimensions_badge_embed__' data-pmid='37922601' data-style='large_rectangle' style='display: inline-block;'></span>
