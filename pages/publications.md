@@ -15,6 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
+- Chi R#, Yang X#, Yang Z#, Xia H, Li H, Pan L, Hao J, **Yan D**, Si X, Shi C\*, **`Sun J*`**, Li W\*. Tumor microenvironment-responsive hyaluronic acid-oxaliplatin nanoparticles enhanced tumor cell elimination. _**Polymers for Advanced Technologies**_, 2024, accepted.
 - **Zhai M#**, Zhang Y#, **Yan D**, Wang Y, Li W\*, **`Sun J*`**. Genetic Insights into the Association and Causality Between Blood Metabolites and Alzheimer's Disease. _**Journal of Alzheimer’s Disease**_, 2024, 98(3):885-896.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38489174)
 <span class='__dimensions_badge_embed__' data-pmid='38489174' data-style='large_rectangle' style='display: inline-block;'></span>
