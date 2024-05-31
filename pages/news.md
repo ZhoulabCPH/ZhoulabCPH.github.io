@@ -8,6 +8,10 @@ permalink: /news
 
 ### 2024
 
+#### May
+- Congratulations to Yixin's paper about *Systemic whole transcriptome analysis identified underlying molecular characteristics and regulatory networks implicated in the retina following optic nerve injury* published on [Experimental Eye Research](https://www.sciencedirect.com/science/article/abs/pii/S0014483524001507?via%3Dihub)!
+- Yixin, Hongyan, Ye, Desen, Ronghua, Yaxuan, Ke, Dongxue, Zijian and Yibo successfully defended their MS theses. Congratulations!
+
 #### March
 - Meng has been selected as one of the 2023 Most Cited Chinese Researchers (released by Elsevier). Congratulations to Meng!
 <img src="assets/img/zhou_scopus.jpg" class="d-block" height="399px" >
