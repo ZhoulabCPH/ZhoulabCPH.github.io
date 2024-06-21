@@ -8,6 +8,9 @@ permalink: /news
 
 ### 2024
 
+#### June
+- Congratulations! Zicheng's paper about *Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity* was published on [Adv Sci](https://onlinelibrary.wiley.com/doi/10.1002/advs.202402716)!
+
 #### May
 - Congratulations to Yixin's paper about *Systemic whole transcriptome analysis identified underlying molecular characteristics and regulatory networks implicated in the retina following optic nerve injury* published on [Experimental Eye Research](https://www.sciencedirect.com/science/article/abs/pii/S0014483524001507?via%3Dihub)!
 - Yixin, Hongyan, Ye, Desen, Ronghua, Yaxuan, Ke, Dongxue, Zijian and Yibo successfully defended their MS theses. Congratulations!
