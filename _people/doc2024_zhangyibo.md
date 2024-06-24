@@ -5,7 +5,7 @@ permalink: /people/master2021_zhangyibo.jpg
 status: Student
 pname: Yibo Zhang
 position: Ph.D. Candidate
-grade: 2021
+grade: 2024
 office: 
 eml: 
 website: 

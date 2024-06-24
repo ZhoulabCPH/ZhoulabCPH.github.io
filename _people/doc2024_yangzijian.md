@@ -5,7 +5,7 @@ permalink: /people/master2021_yangzijian.jpg
 status: Student
 pname: Zijian Yang
 position: Ph.D. Candidate
-grade: 2021
+grade: 2024
 office: 
 eml: 
 website: 

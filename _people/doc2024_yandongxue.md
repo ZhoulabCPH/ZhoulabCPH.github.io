@@ -5,7 +5,7 @@ permalink: /people/master2021_yandongxue.jpg
 status: Student
 pname: Dongxue Yan
 position: Ph.D. Candidate
-grade: 2021
+grade: 2024
 office: 
 eml: 
 website: 
