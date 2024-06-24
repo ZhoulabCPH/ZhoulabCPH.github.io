@@ -9,6 +9,7 @@ permalink: /news
 ### 2024
 
 #### June
+- Congratulations! Zijian's paper about *Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning* was accepted by _**Eye and Vision**_!
 - Congratulations! Zicheng's paper about *Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity* was published on [Adv Sci](https://onlinelibrary.wiley.com/doi/10.1002/advs.202402716)!
 
 #### May
