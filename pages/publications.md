@@ -18,10 +18,10 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 - **Zhang Z#**, Sun X#, Liu Y\*, **Zhang Y**, **Yang Z**, Dong J, Wang N, Ying J, **`Zhou M*`**, Yang L\*. Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity. _**Advanced Science**_, 2024, doi: 10.1002/advs.202402716.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38896789)
 <span class='__dimensions_badge_embed__' data-pmid='38896789' data-style='large_rectangle' style='display: inline-block;'></span>
-- Sun L#, **Cen Y#**, Liu X#, Wei J, Ke X, Wang Y, Liao Q, Chang M, **`Zhou M*`**, Wu W\*. Systemic whole transcriptome analysis identified underlying molecular characteristics and regulatory networks implicated in the retina following optic nerve injury. _**Experimental Eye Research**_, 2024, doi:10.1016/j.exer.2024.109929.
+- Sun L#, **Cen Y#**, Liu X#, Wei J, Ke X, Wang Y, Liao Q, Chang M, **`Zhou M*`**, Wu W\*. Systemic whole transcriptome analysis identified underlying molecular characteristics and regulatory networks implicated in the retina following optic nerve injury. _**Experimental Eye Research**_, 2024, 244:109929.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38750783)
 <span class='__dimensions_badge_embed__' data-pmid='38750783' data-style='large_rectangle' style='display: inline-block;'></span>
-- Chi R, Yang X, Yang Z, Xia H, Li H, Pan L, Hao J, **Yan D**, Si X, Shi C\*, **`Sun J*`**, Li W\*. Tumor microenvironment-responsive hyaluronic acid-oxaliplatin nanoparticles enhanced tumor cell elimination. _**Polymers for Advanced Technologies**_, 2024, doi:10.1002/pat.6405.
+- Chi R, Yang X, Yang Z, Xia H, Li H, Pan L, Hao J, **Yan D**, Si X, Shi C\*, **`Sun J*`**, Li W\*. Tumor microenvironment-responsive hyaluronic acid-oxaliplatin nanoparticles enhanced tumor cell elimination. _**Polymers for Advanced Technologies**_, 2024, 35(4):e6405. doi:10.1002/pat.6405.
 - **Zhai M#**, Zhang Y#, **Yan D**, Wang Y, Li W\*, **`Sun J*`**. Genetic Insights into the Association and Causality Between Blood Metabolites and Alzheimer's Disease. _**Journal of Alzheimer’s Disease**_, 2024, 98(3):885-896.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38489174)
 <span class='__dimensions_badge_embed__' data-pmid='38489174' data-style='large_rectangle' style='display: inline-block;'></span>
