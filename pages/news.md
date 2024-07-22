@@ -8,6 +8,9 @@ permalink: /news
 
 ### 2024
 
+#### July
+- Congratulations to Lili's paper about *Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis* accepteded by British Journal of Cancer!
+
 #### June
 - Congratulations! Zijian's paper about *Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning* was accepted by _**Eye and Vision**_!
 - Congratulations! Zicheng's paper about *Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity* was published on [Adv Sci](https://onlinelibrary.wiley.com/doi/10.1002/advs.202402716)!
