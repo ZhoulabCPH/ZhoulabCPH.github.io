@@ -1,9 +1,9 @@
 ---
-title: Beibei Lv
+title: Beibei Lyu
 layout: people
-permalink: /people/master2024_lvbeibei.jpg
+permalink: /people/master2024_lyubeibei.jpg
 status: Student
-pname: Beibei Lv
+pname: Beibei Lyu
 position: Master student
 grade: 2024
 office: 
