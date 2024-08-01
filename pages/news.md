@@ -9,7 +9,8 @@ permalink: /news
 ### 2024
 
 #### July
-- Congratulations to Lili's paper about *Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis* accepteded by British Journal of Cancer!
+- Congratulations! Xinrui's paper about *The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses (HERVs) in esophageal squamous cell carcinoma* was accepteded by _**International Journal of Cancer**_!
+- Congratulations to Lili's paper about *Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis* accepteded by _**British Journal of Cancer**_!
 
 #### June
 - Congratulations! Zijian's paper about *Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning* was accepted by _**Eye and Vision**_!
