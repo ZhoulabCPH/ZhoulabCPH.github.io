@@ -15,9 +15,13 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
-- Wang Y#, **Yang Z#**, Guo X#, **Jin W**, Lin D, Chen A and **`Zhou M*`**. Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning. _**Eye and Vision**_, 2024, 11:27.
+- Wang Y#, **Yang Z#**, Guo X#, **Jin W**, Lin D, Chen A and **`Zhou M*`**. Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning. _**Eye and Vision**_, 2024, 11(1):27.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39085922)
+<span class='__dimensions_badge_embed__' data-pmid='39085922' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses (HERVs) in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2024, accepted.
-- **Zhuo L#**, Meng F#, Sun K, **`Zhou M*`**, **`Sun J*`**. Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis. _**British Journal of Cancer**_, 2024, accepted.
+- **Zhuo L#**, Meng F#, Sun K, **`Zhou M*`**, **`Sun J*`**. Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis. _**British Journal of Cancer**_, 2024, doi: 10.1038/s41416-024-02803-7.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39095528)
+<span class='__dimensions_badge_embed__' data-pmid='39095528' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Zhang Z#**, Sun X#, Liu Y\*, **Zhang Y**, **Yang Z**, Dong J, Wang N, Ying J, **`Zhou M*`**, Yang L\*. Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity. _**Advanced Science**_, 2024, doi: 10.1002/advs.202402716.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38896789)
 <span class='__dimensions_badge_embed__' data-pmid='38896789' data-style='large_rectangle' style='display: inline-block;'></span>
