@@ -22,7 +22,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 - **Zhuo L#**, Meng F#, Sun K, **`Zhou M*`**, **`Sun J*`**. Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis. _**British Journal of Cancer**_, 2024, doi: 10.1038/s41416-024-02803-7.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39095528)
 <span class='__dimensions_badge_embed__' data-pmid='39095528' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Zhang Z#**, Sun X#, Liu Y\*, **Zhang Y**, **Yang Z**, Dong J, Wang N, Ying J, **`Zhou M*`**, Yang L\*. Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity. _**Advanced Science**_, 2024, e2402716. doi: 10.1002/advs.202402716.
+- **Zhang Z#**, Sun X#, Liu Y\*, **Zhang Y**, **Yang Z**, Dong J, Wang N, Ying J, **`Zhou M*`**, Yang L\*. Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity. _**Advanced Science**_, 2024, e2402716.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38896789)
 <span class='__dimensions_badge_embed__' data-pmid='38896789' data-style='large_rectangle' style='display: inline-block;'></span>
 - Sun L#, **Cen Y#**, Liu X#, Wei J, Ke X, Wang Y, Liao Q, Chang M, **`Zhou M*`**, Wu W\*. Systemic whole transcriptome analysis identified underlying molecular characteristics and regulatory networks implicated in the retina following optic nerve injury. _**Experimental Eye Research**_, 2024, 244:109929.
