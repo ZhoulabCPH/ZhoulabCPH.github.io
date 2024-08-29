@@ -8,9 +8,12 @@ permalink: /news
 
 ### 2024
 
+#### August
+- Zicheng's work about "Causal relationships between retinal diseases and psychiatric disorders have implications for precision psychiatry" was accepted by _**Molecular Neurobiology**_. Congratulations!
+
 #### July
-- Congratulations! Xinrui's paper about *The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses (HERVs) in esophageal squamous cell carcinoma* was accepteded by _**International Journal of Cancer**_!
-- Congratulations to Lili's paper about *Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis* accepteded by _**British Journal of Cancer**_!
+- Congratulations! Xinrui's paper about *The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses (HERVs) in esophageal squamous cell carcinoma* was accepted by _**International Journal of Cancer**_!
+- Congratulations to Lili's paper about *Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis* accepted by _**British Journal of Cancer**_!
 
 #### June
 - Congratulations! Zijian's paper about *Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning* was accepted by _**Eye and Vision**_!
