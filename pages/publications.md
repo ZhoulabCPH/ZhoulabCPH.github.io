@@ -15,6 +15,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
+- **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2024, doi: 10.1007/s12035-024-04456-2.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39240279)
+<span class='__dimensions_badge_embed__' data-pmid='39240279' data-style='large_rectangle' style='display: inline-block;'></span>
 - Wang Y#, **Yang Z#**, Guo X#, **Jin W**, Lin D, Chen A and **`Zhou M*`**. Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning. _**Eye and Vision**_, 2024, 11(1):27.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39085922)
 <span class='__dimensions_badge_embed__' data-pmid='39085922' data-style='large_rectangle' style='display: inline-block;'></span>
