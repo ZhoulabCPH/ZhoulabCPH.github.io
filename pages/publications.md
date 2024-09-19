@@ -24,7 +24,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 - **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2024, doi: 10.1002/ijc.35147.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39190008)
 <span class='__dimensions_badge_embed__' data-pmid='39190008' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Zhuo L#**, Meng F#, Sun K, **`Zhou M*`**, **`Sun J*`**. Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis. _**British Journal of Cancer**_, 2024, doi: 10.1038/s41416-024-02803-7.
+- **Zhuo L#**, Meng F#, Sun K, **`Zhou M*`**, **`Sun J*`**. Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis. _**British Journal of Cancer**_, 2024, 131(6):1068-1079.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39095528)
 <span class='__dimensions_badge_embed__' data-pmid='39095528' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Zhang Z#**, Sun X#, Liu Y\*, **Zhang Y**, **Yang Z**, Dong J, Wang N, Ying J, **`Zhou M*`**, Yang L\*. Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity. _**Advanced Science**_, 2024, 11(31):e2402716.
