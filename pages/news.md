@@ -8,6 +8,11 @@ permalink: /news
 
 ### 2024
 
+#### September
+
+- Meng was certificated as one of [Stanford/Elsevier's Top 2% Scientists](https://www.topresearcherslist.com/Home/Profile/647730). Congratulations to Meng!
+<img src="assets/img/zhou_top2precent.png" class="d-block" height="399px" >
+
 #### August
 - Zicheng's work about "Causal relationships between retinal diseases and psychiatric disorders have implications for precision psychiatry" was accepted by _**Molecular Neurobiology**_. Congratulations!
 
