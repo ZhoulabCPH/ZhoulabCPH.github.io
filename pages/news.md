@@ -9,7 +9,7 @@ permalink: /news
 ### 2024
 
 #### September
-- Meng was certificated as one of [Stanford/Elsevier's Top 2% Scientists](https://www.topresearcherslist.com/Home/Profile/647730). Congratulations to Meng!
+- Meng was certificated as one of [World’s Top 2% Scientists](https://www.topresearcherslist.com/Home/Profile/647730) by Stanford University/Elsevier. Congratulations to Meng!
 <img src="assets/img/zhou_top2percent.png" class="d-block" height="399px" >
 
 #### August
