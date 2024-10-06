@@ -15,6 +15,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
+- Li S#, Zhang N#, Zhang H#, Yang Z#, Cheng Q\*, Wei K\*, **`Zhou M*`**, Huang C\*. Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients. _**Molecular Cancer**_, 2024, 23(1):216.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39350165)
+<span class='__dimensions_badge_embed__' data-pmid='39350165' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2024, doi: 10.1007/s12035-024-04456-2.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39240279)
 <span class='__dimensions_badge_embed__' data-pmid='39240279' data-style='large_rectangle' style='display: inline-block;'></span>

@@ -9,6 +9,7 @@ permalink: /news
 ### 2024
 
 #### September
+- Congratulations! Meng's cooperation work about *Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients* was published on _**Molecular Cancer**_!
 - Meng was certificated as one of [World’s Top 2% Scientists](https://www.topresearcherslist.com/Home/Profile/647730) by Stanford University/Elsevier. Congratulations to Meng!
 <img src="assets/img/zhou_top2percent.png" class="d-block" height="399px" >
 
