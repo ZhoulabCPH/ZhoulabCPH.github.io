@@ -217,18 +217,19 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 <span class='__dimensions_badge_embed__' data-pmid='31665214' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2018
--4. **`Zhou M#`**, **Zhang Z#**, **Zhao H**, **Bao S**, **`Sun J*`**. A novel lncRNA-focus expression signature for survival prediction in endometrial carcinoma. _**BMC Cancer**_, 2018, 18(1):39.
+4. **`Zhou M#`**, **Zhang Z#**, **Zhao H**, **Bao S**, **`Sun J*`**. A novel lncRNA-focus expression signature for survival prediction in endometrial carcinoma. _**BMC Cancer**_, 2018, 18(1):39.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29304762)
 <span class='__dimensions_badge_embed__' data-pmid='29304762' data-style='large_rectangle' style='display: inline-block;'></span>
--3. **`Zhou M#`**, **Zhang Z#**, **Zhao H**, **Bao S**, Cheng L, **`Sun J*`**. An Immune-Related Six-lncRNA Signature to Improve Prognosis Prediction of Glioblastoma Multiforme. _**Molecular Neurobiology**_, 2018, 55(5):3684-3697.
+3. **`Zhou M#`**, **Zhang Z#**, **Zhao H**, **Bao S**, Cheng L, **`Sun J*`**. An Immune-Related Six-lncRNA Signature to Improve Prognosis Prediction of Glioblastoma Multiforme. _**Molecular Neurobiology**_, 2018, 55(5):3684-3697.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28527107)
 <span class='__dimensions_badge_embed__' data-pmid='28527107' data-style='large_rectangle' style='display: inline-block;'></span>
--2. Cheng L#, Jiang Y#, Ju H, **`Sun J`**, Peng J, **`Zhou M*`**, Hu Y\*. InfAcrOnt: calculating cross-ontology term similarities using information flow by a random walk. _**BMC Genomics**_, 2018, 19(Suppl 1):919.
+2. Cheng L#, Jiang Y#, Ju H, **`Sun J`**, Peng J, **`Zhou M*`**, Hu Y\*. InfAcrOnt: calculating cross-ontology term similarities using information flow by a random walk. _**BMC Genomics**_, 2018, 19(Suppl 1):919.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29363423)
 <span class='__dimensions_badge_embed__' data-pmid='29363423' data-style='large_rectangle' style='display: inline-block;'></span>
--1. Cheng L#, Hu Y#, **`Sun J`**, **`Zhou M*`**, Jiang Q\*. DincRNA: a comprehensive web-based bioinformatics toolkit for exploring disease associations and ncRNA function. _**Bioinformatics**_, 2018, 34(11): 1953-1956.
+1. Cheng L#, Hu Y#, **`Sun J`**, **`Zhou M*`**, Jiang Q\*. DincRNA: a comprehensive web-based bioinformatics toolkit for exploring disease associations and ncRNA function. _**Bioinformatics**_, 2018, 34(11): 1953-1956.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29365045)
 <span class='__dimensions_badge_embed__' data-pmid='29365045' data-style='large_rectangle' style='display: inline-block;'></span>
+{: reversed="reversed"}
 
 ### Before 2017
 - 9. **`Zhou M#`**, **Zhao H#**, Xu W, **Bao S**, Cheng L\*, **`Sun J*`**. Discovery and validation of immune-associated long non-coding RNA biomarkers associated with clinically molecular subtype and prognosis in diffuse large B cell lymphoma. _**Molecular Cancer**_, 2017, 16(1):16.
