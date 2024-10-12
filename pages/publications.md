@@ -15,94 +15,94 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
-- Li S#, Zhang N#, Zhang H#, Yang Z#, Cheng Q\*, Wei K\*, **`Zhou M*`**, Huang C\*. Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients. _**Molecular Cancer**_, 2024, 23(1):216.
+- 16. Li S#, Zhang N#, Zhang H#, Yang Z#, Cheng Q\*, Wei K\*, **`Zhou M*`**, Huang C\*. Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients. _**Molecular Cancer**_, 2024, 23(1):216.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39350165)
 <span class='__dimensions_badge_embed__' data-pmid='39350165' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2024, doi: 10.1007/s12035-024-04456-2.
+- 15. **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2024, doi: 10.1007/s12035-024-04456-2.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39240279)
 <span class='__dimensions_badge_embed__' data-pmid='39240279' data-style='large_rectangle' style='display: inline-block;'></span>
-- Wang Y#, **Yang Z#**, Guo X#, **Jin W**, Lin D, Chen A and **`Zhou M*`**. Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning. _**Eye and Vision**_, 2024, 11(1):27.
+- 14. Wang Y#, **Yang Z#**, Guo X#, **Jin W**, Lin D, Chen A and **`Zhou M*`**. Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning. _**Eye and Vision**_, 2024, 11(1):27.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39085922)
 <span class='__dimensions_badge_embed__' data-pmid='39085922' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2024, doi: 10.1002/ijc.35147.
+- 13. **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2024, doi: 10.1002/ijc.35147.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39190008)
 <span class='__dimensions_badge_embed__' data-pmid='39190008' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Zhuo L#**, Meng F#, Sun K, **`Zhou M*`**, **`Sun J*`**. Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis. _**British Journal of Cancer**_, 2024, 131(6):1068-1079.
+- 12. **Zhuo L#**, Meng F#, Sun K, **`Zhou M*`**, **`Sun J*`**. Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis. _**British Journal of Cancer**_, 2024, 131(6):1068-1079.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39095528)
 <span class='__dimensions_badge_embed__' data-pmid='39095528' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Zhang Z#**, Sun X#, Liu Y\*, **Zhang Y**, **Yang Z**, Dong J, Wang N, Ying J, **`Zhou M*`**, Yang L\*. Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity. _**Advanced Science**_, 2024, 11(31):e2402716.
+- 11. **Zhang Z#**, Sun X#, Liu Y\*, **Zhang Y**, **Yang Z**, Dong J, Wang N, Ying J, **`Zhou M*`**, Yang L\*. Spatial Transcriptome-Wide Profiling of Small Cell Lung Cancer Reveals Intra-Tumoral Molecular and Subtype Heterogeneity. _**Advanced Science**_, 2024, 11(31):e2402716.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38896789)
 <span class='__dimensions_badge_embed__' data-pmid='38896789' data-style='large_rectangle' style='display: inline-block;'></span>
-- Sun L#, **Cen Y#**, Liu X#, Wei J, Ke X, Wang Y, Liao Q, Chang M, **`Zhou M*`**, Wu W\*. Systemic whole transcriptome analysis identified underlying molecular characteristics and regulatory networks implicated in the retina following optic nerve injury. _**Experimental Eye Research**_, 2024, 244:109929.
+- 10. Sun L#, **Cen Y#**, Liu X#, Wei J, Ke X, Wang Y, Liao Q, Chang M, **`Zhou M*`**, Wu W\*. Systemic whole transcriptome analysis identified underlying molecular characteristics and regulatory networks implicated in the retina following optic nerve injury. _**Experimental Eye Research**_, 2024, 244:109929.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38750783)
 <span class='__dimensions_badge_embed__' data-pmid='38750783' data-style='large_rectangle' style='display: inline-block;'></span>
-- Chi R, Yang X, Yang Z, Xia H, Li H, Pan L, Hao J, **Yan D**, Si X, Shi C\*, **`Sun J*`**, Li W\*. Tumor microenvironment-responsive hyaluronic acid-oxaliplatin nanoparticles enhanced tumor cell elimination. _**Polymers for Advanced Technologies**_, 2024, 35(4):e6405. doi:10.1002/pat.6405.
-- **Zhai M#**, Zhang Y#, **Yan D**, Wang Y, Li W\*, **`Sun J*`**. Genetic Insights into the Association and Causality Between Blood Metabolites and Alzheimer's Disease. _**Journal of Alzheimer’s Disease**_, 2024, 98(3):885-896.
+- 9. Chi R, Yang X, Yang Z, Xia H, Li H, Pan L, Hao J, **Yan D**, Si X, Shi C\*, **`Sun J*`**, Li W\*. Tumor microenvironment-responsive hyaluronic acid-oxaliplatin nanoparticles enhanced tumor cell elimination. _**Polymers for Advanced Technologies**_, 2024, 35(4):e6405. doi:10.1002/pat.6405.
+- 8. **Zhai M#**, Zhang Y#, **Yan D**, Wang Y, Li W\*, **`Sun J*`**. Genetic Insights into the Association and Causality Between Blood Metabolites and Alzheimer's Disease. _**Journal of Alzheimer’s Disease**_, 2024, 98(3):885-896.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38489174)
 <span class='__dimensions_badge_embed__' data-pmid='38489174' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Chen H**, **Yan D**, **`Sun J*`**, **`Zhou M*`**. Inference of Developmental Hierarchy and Functional States of Exhausted T Cells from Epigenetic Profiles with Deep Learning. _**Journal of Chemical Information and Modeling**_, 2024, 64(8):3579-3591.
+- 7. **Chen H**, **Yan D**, **`Sun J*`**, **`Zhou M*`**. Inference of Developmental Hierarchy and Functional States of Exhausted T Cells from Epigenetic Profiles with Deep Learning. _**Journal of Chemical Information and Modeling**_, 2024, 64(8):3579-3591.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38545680)
 <span class='__dimensions_badge_embed__' data-pmid='38545680' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Wu Y#**, **Shi R#**, Chen H, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. Effect of the gut microbiome in glaucoma risk from the causal perspective. _**BMJ Open Ophthalmology**_, 2024, 9(1):e001547.
+- 6. **Wu Y#**, **Shi R#**, Chen H, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. Effect of the gut microbiome in glaucoma risk from the causal perspective. _**BMJ Open Ophthalmology**_, 2024, 9(1):e001547.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38286567)
 <span class='__dimensions_badge_embed__' data-pmid='38286567' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Zhang Y#**, **Yang Z#**, Chen R#, Zhu Y#, Liu L, Dong J, **Zhang Z**, Sun X, Ying J, Lin D\*, Yang L\* & **`Zhou M*`**. Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer. _**npj Digital Medicine**_, 2024, 7(1):15.
+- 5. **Zhang Y#**, **Yang Z#**, Chen R#, Zhu Y#, Liu L, Dong J, **Zhang Z**, Sun X, Ying J, Lin D\*, Yang L\* & **`Zhou M*`**. Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer. _**npj Digital Medicine**_, 2024, 7(1):15.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38238410)
 <span class='__dimensions_badge_embed__' data-pmid='38238410' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Shi R#**, **Wu Y#**, Chen H#, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. The causal effect of oxidative stress on the risk of glaucoma. _**Heliyon**_, 2024, 10(3):E24852.
+- 4. **Shi R#**, **Wu Y#**, Chen H#, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. The causal effect of oxidative stress on the risk of glaucoma. _**Heliyon**_, 2024, 10(3):E24852.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38317903)
 <span class='__dimensions_badge_embed__' data-pmid='38317903' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Yang Z#**, **Zhang Y#**, **Zhuo L**, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Prediction of prognosis and treatment response in ovarian cancer patients from histopathology images using graph deep learning: a multicenter retrospective study. _**European Journal of Cancer**_, 2024, 199:113532.
+- 3. **Yang Z#**, **Zhang Y#**, **Zhuo L**, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Prediction of prognosis and treatment response in ovarian cancer patients from histopathology images using graph deep learning: a multicenter retrospective study. _**European Journal of Cancer**_, 2024, 199:113532.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38241820)
 <span class='__dimensions_badge_embed__' data-pmid='38241820' data-style='large_rectangle' style='display: inline-block;'></span>
-- Li CX#, **Chen H#**, Kermani NZ, Adcock IM, Sköld CM, **`Zhou M*`**, Wheelock ÅM\*, U-BIOPRED study group. Consensus clustering with missing labels (ccml): a consensus clustering tool for multi-omics integrative prediction in cohorts with unequal sample coverage. _**Briefings in Bioinformatics**_, 2024, 25(1):bbad501.
+- 2. Li CX#, **Chen H#**, Kermani NZ, Adcock IM, Sköld CM, **`Zhou M*`**, Wheelock ÅM\*, U-BIOPRED study group. Consensus clustering with missing labels (ccml): a consensus clustering tool for multi-omics integrative prediction in cohorts with unequal sample coverage. _**Briefings in Bioinformatics**_, 2024, 25(1):bbad501.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38205966)
 <span class='__dimensions_badge_embed__' data-pmid='38205966' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Li K#**, Zhang R#, Wen F#, Zhao Y, Meng F, Li Q, Hao A, Yang B, Lu Z\*, Cui Y\*, **`Zhou M*`**. Single-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma. _**Hepatology**_, 2024, 79(6):1293-1309.
+- 1. **Li K#**, Zhang R#, Wen F#, Zhao Y, Meng F, Li Q, Hao A, Yang B, Lu Z\*, Cui Y\*, **`Zhou M*`**. Single-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma. _**Hepatology**_, 2024, 79(6):1293-1309.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37972953)
 <span class='__dimensions_badge_embed__' data-pmid='37972953' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2023
-- Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2023, S1933-0219(23)00091-0.
+- 14. Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2023, S1933-0219(23)00091-0.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38007004)
 <span class='__dimensions_badge_embed__' data-pmid='38007004' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, 167:107616.
+- 13. **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, 167:107616.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37922601)
 <span class='__dimensions_badge_embed__' data-pmid='37922601' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Li K#**, Sun L#, Wang Y#, **Cen Y**, **Zhao J**, Liao Q, Wu W\*, **`Sun J*`** and **`Zhou M*`**. Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior. _**Experimental & Molecular Medicine**_, 2023, 55(11):2433-2444.
+- 12. **Li K#**, Sun L#, Wang Y#, **Cen Y**, **Zhao J**, Liao Q, Wu W\*, **`Sun J*`** and **`Zhou M*`**. Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior. _**Experimental & Molecular Medicine**_, 2023, 55(11):2433-2444.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37907747)
 <span class='__dimensions_badge_embed__' data-pmid='37907747' data-style='large_rectangle' style='display: inline-block;'></span>
-- Zhao N#, **Zhang Z#**, Wang Q#, Li L#, Wei Z, Chen H\*, **`Zhou M*`**, Liu Z\*, Su J\*. DNA damage repair profiling of esophageal squamous cell carcinoma uncovers clinically relevant molecular subtypes with distinct prognoses and therapeutic vulnerabilities. _**eBioMedicine**_, 2023, 96:104801.
+- 11. Zhao N#, **Zhang Z#**, Wang Q#, Li L#, Wei Z, Chen H\*, **`Zhou M*`**, Liu Z\*, Su J\*. DNA damage repair profiling of esophageal squamous cell carcinoma uncovers clinically relevant molecular subtypes with distinct prognoses and therapeutic vulnerabilities. _**eBioMedicine**_, 2023, 96:104801.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37725855)
 <span class='__dimensions_badge_embed__' data-pmid='37725855' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2023, doi: 10.1109/JBHI.2023.3308440.
+- 10. **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2023, doi: 10.1109/JBHI.2023.3308440.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37616142)
 <span class='__dimensions_badge_embed__' data-pmid='37616142' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Chen L#**, Ma R#, Luo C#, Xie Q#, Ning X, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA. _**Translational Research**_, 2023, 262:12-24.
+- 9. **Chen L#**, Ma R#, Luo C#, Xie Q#, Ning X, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA. _**Translational Research**_, 2023, 262:12-24.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37499745)
 <span class='__dimensions_badge_embed__' data-pmid='37499745' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Zhang Z#**, **Chen H#**, **Yan D**, **Chen L**, **`Sun J*`** & **`Zhou M*`**. Deep learning identifies a T-cell exhaustion-dependent transcriptional signature for predicting clinical outcomes and response to immune checkpoint blockade. _**Oncogenesis**_, 2023, 12(1):37.
+- 8. **Zhang Z#**, **Chen H#**, **Yan D**, **Chen L**, **`Sun J*`** & **`Zhou M*`**. Deep learning identifies a T-cell exhaustion-dependent transcriptional signature for predicting clinical outcomes and response to immune checkpoint blockade. _**Oncogenesis**_, 2023, 12(1):37.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37433793)
 <span class='__dimensions_badge_embed__' data-pmid='37433793' data-style='large_rectangle' style='display: inline-block;'></span>
-- Yang L#, **Zhang Z#**, Dong J, **Zhang Y**, **Yang Z**, Guo Y, Sun X, Li J, Xing P\*, Ying J\*, **`Zhou M*`**. Multi-dimensional characterization of immunological profiles in small cell lung cancer uncovers clinically relevant immune subtypes with distinct prognoses and therapeutic vulnerabilities. _**Pharmacological Research**_, 2023, 194:106844.
+- 7. Yang L#, **Zhang Z#**, Dong J, **Zhang Y**, **Yang Z**, Guo Y, Sun X, Li J, Xing P\*, Ying J\*, **`Zhou M*`**. Multi-dimensional characterization of immunological profiles in small cell lung cancer uncovers clinically relevant immune subtypes with distinct prognoses and therapeutic vulnerabilities. _**Pharmacological Research**_, 2023, 194:106844.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37392900)
 <span class='__dimensions_badge_embed__' data-pmid='37392900' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Zhou M#`**, **Bao S#**, Gong T#, Wang Q#, **`Sun J`**, Li J, Lu M, Sun W, **Su J\***, Chen H\* & Liu Z\*. The transcriptional landscape and diagnostic potential of long non-coding RNAs in esophageal squamous cell carcinoma. _**Nature Communications**_, 2023, 14(1):3799.
+- 6. **`Zhou M#`**, **Bao S#**, Gong T#, Wang Q#, **`Sun J`**, Li J, Lu M, Sun W, **Su J\***, Chen H\* & Liu Z\*. The transcriptional landscape and diagnostic potential of long non-coding RNAs in esophageal squamous cell carcinoma. _**Nature Communications**_, 2023, 14(1):3799.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37365153)
 <span class='__dimensions_badge_embed__' data-pmid='37365153' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Yang Z**, **Zhang Y**, **Xu K**, **`Sun J*`**, Wu Y\*, **`Zhou M*`**. DeepDrRVO: A GAN-auxiliary two-step masked transformer framework benefits early recognition and differential diagnosis of retinal vascular occlusion from color fundus photographs. _**Computers in Biology and Medicine**_, 2023, 163:107148.
+- 5. **Yang Z**, **Zhang Y**, **Xu K**, **`Sun J*`**, Wu Y\*, **`Zhou M*`**. DeepDrRVO: A GAN-auxiliary two-step masked transformer framework benefits early recognition and differential diagnosis of retinal vascular occlusion from color fundus photographs. _**Computers in Biology and Medicine**_, 2023, 163:107148.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37329618)
 <span class='__dimensions_badge_embed__' data-pmid='37329618' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Su J#\***, **Yuan J#**, Xu L#, **Xing S#**, Sun M#, **Yao Y**, **Ma Y**, **Chen F**, Jiang L, **Li K**, **Yu X**, **Xue Z**, **Zhang Y**, **Fan D**, **Zhang J**, **Liu H**, Liu X, Zhang G, Wang H, **`Zhou M`**, Lyu F, An G, Yu X, MAGIC, Xue Y\*, Yang J\* and Qu J\*. Sequencing of 19,219 exomes identifies a low-frequency variant in FKBP5 promoter predisposing to high myopia in a Han Chinese population. _**Cell Reports**_, 2023, 42(5):112510.
+- 4. **Su J#\***, **Yuan J#**, Xu L#, **Xing S#**, Sun M#, **Yao Y**, **Ma Y**, **Chen F**, Jiang L, **Li K**, **Yu X**, **Xue Z**, **Zhang Y**, **Fan D**, **Zhang J**, **Liu H**, Liu X, Zhang G, Wang H, **`Zhou M`**, Lyu F, An G, Yu X, MAGIC, Xue Y\*, Yang J\* and Qu J\*. Sequencing of 19,219 exomes identifies a low-frequency variant in FKBP5 promoter predisposing to high myopia in a Han Chinese population. _**Cell Reports**_, 2023, 42(5):112510.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37171956)
 <span class='__dimensions_badge_embed__' data-pmid='37171956' data-style='large_rectangle' style='display: inline-block;'></span>
-- Jiang D#, **Yan C#**, Ge L, Yang C, Huang Y, Chan YK, Chen C, Chen W, **`Zhou M*`** and Lin B\*. Metabolomic analysis of aqueous humor reveals potential metabolite biomarkers for differential detection of macular edema. _**Eye and Vision**_, 2023,10(1):14.
+- 3. Jiang D#, **Yan C#**, Ge L, Yang C, Huang Y, Chan YK, Chen C, Chen W, **`Zhou M*`** and Lin B\*. Metabolomic analysis of aqueous humor reveals potential metabolite biomarkers for differential detection of macular edema. _**Eye and Vision**_, 2023,10(1):14.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37004107)
 <span class='__dimensions_badge_embed__' data-pmid='37004107' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Yan C#**, **Li K#**, Meng F#, **Chen L**, **Zhao J**, **Zhang Z**, Xu D\*, **`Sun J*`**, **`Zhou M*`**. Integrated immunogenomic analysis of single-cell and bulk tissue transcriptome profiling unravels a macrophage activation paradigm associated with immunologically and clinically distinct behaviors in ovarian cancer. _**Journal of Advanced Research**_, 2023, 44:149-160
+- 2. **Yan C#**, **Li K#**, Meng F#, **Chen L**, **Zhao J**, **Zhang Z**, Xu D\*, **`Sun J*`**, **`Zhou M*`**. Integrated immunogenomic analysis of single-cell and bulk tissue transcriptome profiling unravels a macrophage activation paradigm associated with immunologically and clinically distinct behaviors in ovarian cancer. _**Journal of Advanced Research**_, 2023, 44:149-160
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/36725186)
 <span class='__dimensions_badge_embed__' data-pmid='36725186' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Yan C#**, Hu X#, Liu X#, **Zhao J**, Le Z, Feng J, **`Zhou M`**, Ma X\*, Zheng Q\*, **`Sun J*`**. Upregulation of SLC12A3 and SLC12A9 Mediated by the HCP5/miR-140-5p Axis Confers Aggressiveness and Unfavorable Prognosis in Uveal Melanoma. _**Laboratory Investigation**_, 2023, 103(3):100022.
+- 1. **Yan C#**, Hu X#, Liu X#, **Zhao J**, Le Z, Feng J, **`Zhou M`**, Ma X\*, Zheng Q\*, **`Sun J*`**. Upregulation of SLC12A3 and SLC12A9 Mediated by the HCP5/miR-140-5p Axis Confers Aggressiveness and Unfavorable Prognosis in Uveal Melanoma. _**Laboratory Investigation**_, 2023, 103(3):100022.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/36925204)
 <span class='__dimensions_badge_embed__' data-pmid='36925204' data-style='large_rectangle' style='display: inline-block;'></span>
 
@@ -128,16 +128,16 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 - Xi Y#, Lin Y#, Guo W#, **Wang X**, **Zhao H**, Miao C, Liu W, Liu Y, Liu T, Luo Y, Fan W, Lin A, Chen Y, Sun Y, Ma Y, Niu X, Zhong C, Tan W, **`Zhou M`**, **Su J\***, Wu C\* and Lin D\*. Multi-omic characterization of genome-wide abnormal DNA methylation reveals diagnostic and prognostic markers for esophageal squamous-cell carcinoma. _**Signal Transduction and Targeted Therapy**_, 2022, 7(1):53.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35210398)
 <span class='__dimensions_badge_embed__' data-pmid='35210398' data-style='large_rectangle' style='display: inline-block;'></span>
-- Ji W#, **Chen L#**, Yang W#, **Li K**, **Zhao J**, **Yan C**, You C, Jiang M, **`Zhou M*`** & **Shen X\***. Transcriptional landscape of circulating platelets from patients with COVID-19 reveals key subnetworks and regulators underlying SARS-CoV-2 infection: implications for immunothrombosis. _**Cell & Bioscience**_, 2022, 12(1):15.
+- 4. Ji W#, **Chen L#**, Yang W#, **Li K**, **Zhao J**, **Yan C**, You C, Jiang M, **`Zhou M*`** & **Shen X\***. Transcriptional landscape of circulating platelets from patients with COVID-19 reveals key subnetworks and regulators underlying SARS-CoV-2 infection: implications for immunothrombosis. _**Cell & Bioscience**_, 2022, 12(1):15.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35139909)
 <span class='__dimensions_badge_embed__' data-pmid='35139909' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Sun J#`**, **Yan C#**, Xu D#, **Zhang Z**, **Li K**, Li X, **`Zhou M*`** & Hao D\*. Immuno-genomic characterisation of high-grade serous ovarian cancer reveals immune evasion mechanisms and identifies an immunological subtype with a favourable prognosis and improved therapeutic efficacy. _**British Journal of Cancer**_, 2022, 126(11):1570-1580.
+- 3. **`Sun J#`**, **Yan C#**, Xu D#, **Zhang Z**, **Li K**, Li X, **`Zhou M*`** & Hao D\*. Immuno-genomic characterisation of high-grade serous ovarian cancer reveals immune evasion mechanisms and identifies an immunological subtype with a favourable prognosis and improved therapeutic efficacy. _**British Journal of Cancer**_, 2022, 126(11):1570-1580.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35017656)
 <span class='__dimensions_badge_embed__' data-pmid='35017656' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Bao S#**, **Li K**, **Yan C**, **Zhang Z**, Qu J\*, **`Zhou M*`**. Deep learning-based advances and applications for single-cell RNA-sequencing data analysis.  _**Briefings in Bioinformatics**_, 2022, 23(1):bbab473.
+- 2. **Bao S#**, **Li K**, **Yan C**, **Zhang Z**, Qu J\*, **`Zhou M*`**. Deep learning-based advances and applications for single-cell RNA-sequencing data analysis.  _**Briefings in Bioinformatics**_, 2022, 23(1):bbab473.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34849562)
 <span class='__dimensions_badge_embed__' data-pmid='34849562' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Li K#**, **Yan C#**, **Li C#**, **Chen L**, **Zhao J**, **Zhang Z**, **Bao S**, **`Sun J*`**, **`Zhou M*`**. Computational elucidation of spatial gene expression variation from spatially resolved transcriptomics data. _**Molecular Therapy - Nucleic Acids**_, 2022, 27:404-411. 
+- 1. **Li K#**, **Yan C#**, **Li C#**, **Chen L**, **Zhao J**, **Zhang Z**, **Bao S**, **`Sun J*`**, **`Zhou M*`**. Computational elucidation of spatial gene expression variation from spatially resolved transcriptomics data. _**Molecular Therapy - Nucleic Acids**_, 2022, 27:404-411. 
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35036053)
 <span class='__dimensions_badge_embed__' data-pmid='35036053' data-style='large_rectangle' style='display: inline-block;'></span>
 
