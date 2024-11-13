@@ -15,7 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
-17. **Li K**, **Huang J**, **Tan Y**, **`Sun J*`** & **`Zhou M*`**,. Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma. _**Journal of Translational Medicine**_, 2024, doi:10.1186/s12967-024-05831-2.
+17. **Li K**, **Huang J**, **Tan Y**, **`Sun J*`** & **`Zhou M*`**,. Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma. _**Journal of Translational Medicine**_, 2024, 22(1):1020. doi:10.1186/s12967-024-05831-2.
 16. Li S#, Zhang N#, Zhang H#, Yang Z#, Cheng Q\*, Wei K\*, **`Zhou M*`**, Huang C\*. Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients. _**Molecular Cancer**_, 2024, 23(1):216.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39350165)
 <span class='__dimensions_badge_embed__' data-pmid='39350165' data-style='large_rectangle' style='display: inline-block;'></span>
