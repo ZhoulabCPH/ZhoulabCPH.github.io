@@ -8,6 +8,9 @@ permalink: /news
 
 ### 2024
 
+#### November
+- Ke's work about "Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma" was published on _**Journal of Translational Medicine**_. Congratulations!
+
 #### September
 - Congratulations! Meng's cooperation work about *Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients* was published on _**Molecular Cancer**_!
 - Meng was certificated as one of [World’s Top 2% Scientists](https://www.topresearcherslist.com/Home/Profile/647730) by Stanford University/Elsevier. Congratulations to Meng!
