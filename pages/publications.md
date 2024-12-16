@@ -14,22 +14,24 @@ js:
 Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=O5RxsC8AAAAJ&view_op=list_works&sortby=pubdate) for more details.<br>
 \# Co-first authors; \* Co-corresponding authors
 
-### 2024
-17. **Li K**, **Huang J**, **Tan Y**, **`Sun J*`** & **`Zhou M*`**. Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma. _**Journal of Translational Medicine**_, 2024, 22(1):1020.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39533334)
-<span class='__dimensions_badge_embed__' data-pmid='39533334' data-style='large_rectangle' style='display: inline-block;'></span>
-16. Li S#, Zhang N#, Zhang H#, Yang Z#, Cheng Q\*, Wei K\*, **`Zhou M*`**, Huang C\*. Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients. _**Molecular Cancer**_, 2024, 23(1):216.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39350165)
-<span class='__dimensions_badge_embed__' data-pmid='39350165' data-style='large_rectangle' style='display: inline-block;'></span>
-15. **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2024, doi: 10.1007/s12035-024-04456-2.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39240279)
-<span class='__dimensions_badge_embed__' data-pmid='39240279' data-style='large_rectangle' style='display: inline-block;'></span>
-14. Wang Y#, **Yang Z#**, Guo X#, **Jin W**, Lin D, Chen A and **`Zhou M*`**. Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning. _**Eye and Vision**_, 2024, 11(1):27.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39085922)
-<span class='__dimensions_badge_embed__' data-pmid='39085922' data-style='large_rectangle' style='display: inline-block;'></span>
-13. **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2024, doi: 10.1002/ijc.35147.
+### 2025
+1. **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2025, 156(3):668-678.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39190008)
 <span class='__dimensions_badge_embed__' data-pmid='39190008' data-style='large_rectangle' style='display: inline-block;'></span>
+
+### 2024
+16. **Li K**, **Huang J**, **Tan Y**, **`Sun J*`** & **`Zhou M*`**. Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma. _**Journal of Translational Medicine**_, 2024, 22(1):1020.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39533334)
+<span class='__dimensions_badge_embed__' data-pmid='39533334' data-style='large_rectangle' style='display: inline-block;'></span>
+15. Li S#, Zhang N#, Zhang H#, Yang Z#, Cheng Q\*, Wei K\*, **`Zhou M*`**, Huang C\*. Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients. _**Molecular Cancer**_, 2024, 23(1):216.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39350165)
+<span class='__dimensions_badge_embed__' data-pmid='39350165' data-style='large_rectangle' style='display: inline-block;'></span>
+14. **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2024, doi: 10.1007/s12035-024-04456-2.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39240279)
+<span class='__dimensions_badge_embed__' data-pmid='39240279' data-style='large_rectangle' style='display: inline-block;'></span>
+13. Wang Y#, **Yang Z#**, Guo X#, **Jin W**, Lin D, Chen A and **`Zhou M*`**. Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning. _**Eye and Vision**_, 2024, 11(1):27.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39085922)
+<span class='__dimensions_badge_embed__' data-pmid='39085922' data-style='large_rectangle' style='display: inline-block;'></span>
 12. **Zhuo L#**, Meng F#, Sun K, **`Zhou M*`**, **`Sun J*`**. Integrated immuno-transcriptomic analysis of ovarian cancer identifies a four-chemokine-dominated subtype with antitumor immune-active phenotype and favorable prognosis. _**British Journal of Cancer**_, 2024, 131(6):1068-1079.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39095528)
 <span class='__dimensions_badge_embed__' data-pmid='39095528' data-style='large_rectangle' style='display: inline-block;'></span>

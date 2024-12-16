@@ -1,7 +1,7 @@
 ---
 title: Ruyu Sheng
 layout: people
-permalink: /people/master2023_shengruyu.jpg
+permalink: /people/master2023_shengruyu_2.jpg
 status: Student
 pname: Ruyu Sheng
 position: Master student
