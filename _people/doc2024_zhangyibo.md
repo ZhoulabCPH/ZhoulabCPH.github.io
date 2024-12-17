@@ -1,7 +1,7 @@
 ---
 title: Yibo Zhang
 layout: people
-permalink: /people/master2021_zhangyibo.jpg
+permalink: /people/master2021_zhangyibo_2.jpg
 status: Student
 pname: Yibo Zhang
 position: Ph.D. Candidate
