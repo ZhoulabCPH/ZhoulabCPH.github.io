@@ -20,6 +20,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 <span class='__dimensions_badge_embed__' data-pmid='39190008' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2024
+17. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2024, doi:10.1038/s43588-024-00748-8.
 16. **Li K**, **Huang J**, **Tan Y**, **`Sun J*`** & **`Zhou M*`**. Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma. _**Journal of Translational Medicine**_, 2024, 22(1):1020.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39533334)
 <span class='__dimensions_badge_embed__' data-pmid='39533334' data-style='large_rectangle' style='display: inline-block;'></span>

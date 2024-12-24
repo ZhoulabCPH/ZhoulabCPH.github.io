@@ -9,6 +9,9 @@ permalink: /news
 ### 2024
 
 #### November
+- Congratulations! Dongxue contributed a paper about "Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy" on _**Nature Computational Science**_. 
+
+#### November
 - Ke's work about "Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma" was published on _**Journal of Translational Medicine**_. Congratulations!
 
 #### September
