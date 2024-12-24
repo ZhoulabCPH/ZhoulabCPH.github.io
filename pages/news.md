@@ -8,7 +8,7 @@ permalink: /news
 
 ### 2024
 
-#### November
+#### December
 - Congratulations! Dongxue contributed a paper about "Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy" on _**Nature Computational Science**_. 
 
 #### November
