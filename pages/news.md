@@ -6,6 +6,11 @@ permalink: /news
 
 # News
 
+### 2025
+
+#### January
+- Congratulations! Ye contributed a paper about "Pan-cancer characterization of m6A-mediated regulation of T cell exhaustion dynamics and clinical relevancies in human cancers" on _**Molecular Therapy: Nucleic Acids**_. 
+
 ### 2024
 
 #### December
