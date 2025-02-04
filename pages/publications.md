@@ -25,16 +25,15 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 {: reversed="reversed"}
 
 ### 2024
-17. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2024, doi:10.1038/s43588-024-00748-8.
+16. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2024, doi:10.1038/s43588-024-00748-8.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39715829)
 <span class='__dimensions_badge_embed__' data-pmid='39715829' data-style='large_rectangle' style='display: inline-block;'></span>
-16. **Li K**, **Huang J**, **Tan Y**, **`Sun J*`** & **`Zhou M*`**. Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma. _**Journal of Translational Medicine**_, 2024, 22(1):1020.
+15. **Li K**, **Huang J**, **Tan Y**, **`Sun J*`** & **`Zhou M*`**. Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma. _**Journal of Translational Medicine**_, 2024, 22(1):1020.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39533334)
 <span class='__dimensions_badge_embed__' data-pmid='39533334' data-style='large_rectangle' style='display: inline-block;'></span>
-15. Li S#, Zhang N#, Zhang H#, Yang Z#, Cheng Q\*, Wei K\*, **`Zhou M*`**, Huang C\*. Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients. _**Molecular Cancer**_, 2024, 23(1):216.
+14. Li S#, Zhang N#, Zhang H#, Yang Z#, Cheng Q\*, Wei K\*, **`Zhou M*`**, Huang C\*. Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients. _**Molecular Cancer**_, 2024, 23(1):216.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39350165)
 <span class='__dimensions_badge_embed__' data-pmid='39350165' data-style='large_rectangle' style='display: inline-block;'></span>
-
 13. Wang Y#, **Yang Z#**, Guo X#, **Jin W**, Lin D, Chen A and **`Zhou M*`**. Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning. _**Eye and Vision**_, 2024, 11(1):27.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39085922)
 <span class='__dimensions_badge_embed__' data-pmid='39085922' data-style='large_rectangle' style='display: inline-block;'></span>
