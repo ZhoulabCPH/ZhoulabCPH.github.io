@@ -15,10 +15,14 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+3. **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2025, 62(3):3182-3194.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39240279)
+<span class='__dimensions_badge_embed__' data-pmid='39240279' data-style='large_rectangle' style='display: inline-block;'></span>
 2. Ji W#, **Fang Y#**, **Chen L**, **Zheng Y**, Pei Y, Mei C, **`Zhou M*`**. Pan-cancer characterization of m6A-mediated regulation of T cell exhaustion dynamics and clinical relevancies in human cancers. _**Molecular Therapy: Nucleic Acids**_, 2025, doi:10.1016/j.omtn.2025.102465.
 1. **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2025, 156(3):668-678.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39190008)
 <span class='__dimensions_badge_embed__' data-pmid='39190008' data-style='large_rectangle' style='display: inline-block;'></span>
+{: reversed="reversed"}
 
 ### 2024
 17. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2024, doi:10.1038/s43588-024-00748-8.
@@ -30,9 +34,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 15. Li S#, Zhang N#, Zhang H#, Yang Z#, Cheng Q\*, Wei K\*, **`Zhou M*`**, Huang C\*. Deciphering the role of LGALS2: insights into tertiary lymphoid structure-associated dendritic cell activation and immunotherapeutic potential in breast cancer patients. _**Molecular Cancer**_, 2024, 23(1):216.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39350165)
 <span class='__dimensions_badge_embed__' data-pmid='39350165' data-style='large_rectangle' style='display: inline-block;'></span>
-14. **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2024, doi: 10.1007/s12035-024-04456-2.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39240279)
-<span class='__dimensions_badge_embed__' data-pmid='39240279' data-style='large_rectangle' style='display: inline-block;'></span>
+
 13. Wang Y#, **Yang Z#**, Guo X#, **Jin W**, Lin D, Chen A and **`Zhou M*`**. Automated early detection of acute retinal necrosis from ultra-widefield color fundus photography using deep learning. _**Eye and Vision**_, 2024, 11(1):27.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39085922)
 <span class='__dimensions_badge_embed__' data-pmid='39085922' data-style='large_rectangle' style='display: inline-block;'></span>
