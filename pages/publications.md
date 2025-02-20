@@ -15,6 +15,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+4. Yao Y#, Xu Y#, Zhang Y, Gui Y, Bai Q, Zhu Z, Peng H, Zhou Y, Chen ZJ, **`Sun J*`**, Su J\*. Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network. _**Small Methods**_, 2025, doi: 10.1002/smtd.202400991.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39962810)
+<span class='__dimensions_badge_embed__' data-pmid='39962810' data-style='large_rectangle' style='display: inline-block;'></span>
 3. **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2025, 62(3):3182-3194.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39240279)
 <span class='__dimensions_badge_embed__' data-pmid='39240279' data-style='large_rectangle' style='display: inline-block;'></span>

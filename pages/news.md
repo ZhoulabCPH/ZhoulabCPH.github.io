@@ -8,6 +8,9 @@ permalink: /news
 
 ### 2025
 
+#### February
+- Congratulations to Jie's paper about "Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network" on _**Small Methods**_. 
+
 #### January
 - Congratulations! Ye contributed a paper about "Pan-cancer characterization of m6A-mediated regulation of T cell exhaustion dynamics and clinical relevancies in human cancers" on _**Molecular Therapy: Nucleic Acids**_. 
 
