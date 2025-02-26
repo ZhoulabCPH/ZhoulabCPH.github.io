@@ -15,7 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
-5. Yan C#, Zheng C#, Luo J, Wu X, Meng X, Lv C, Shen S, **`Zhou M*`**, Wang O\*. Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma. _**Journal of Pathology: Clinical Research**_, 2025, doi: 10.1002/2056-4538.70022.
+5. **Yan C#**, Zheng C#, Luo J, Wu X, Meng X, Lv C, Shen S, **`Zhou M*`**, Wang O\*. Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma. _**Journal of Pathology: Clinical Research**_, 2025, doi: 10.1002/2056-4538.70022.
 4. Yao Y#, Xu Y#, Zhang Y, Gui Y, Bai Q, Zhu Z, Peng H, Zhou Y, Chen ZJ, **`Sun J*`**, Su J\*. Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network. _**Small Methods**_, 2025, doi: 10.1002/smtd.202400991.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39962810)
 <span class='__dimensions_badge_embed__' data-pmid='39962810' data-style='large_rectangle' style='display: inline-block;'></span>
