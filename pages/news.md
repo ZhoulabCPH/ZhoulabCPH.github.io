@@ -9,6 +9,7 @@ permalink: /news
 ### 2025
 
 #### February
+- Congratulations to Congcong's paper about "Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma" on _**Journal of Pathology Clinical Research**_. 
 - Congratulations to Jie's paper about "Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network" on _**Small Methods**_. 
 
 #### January
