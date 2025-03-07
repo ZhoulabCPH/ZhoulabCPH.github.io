@@ -15,7 +15,12 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
-5. **Yan C#**, Zheng C#, Luo J, Wu X, Meng X, Lv C, Shen S, **`Zhou M*`**, Wang O\*. Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma. _**Journal of Pathology: Clinical Research**_, 2025, doi: 10.1002/2056-4538.70022.
+6. **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2025, 29(3):1861-1871.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37616142)
+<span class='__dimensions_badge_embed__' data-pmid='37616142' data-style='large_rectangle' style='display: inline-block;'></span>
+5. **Yan C#**, Zheng C#, Luo J, Wu X, Meng X, Lv C, Shen S, **`Zhou M*`**, Wang O\*. Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma. _**Journal of Pathology: Clinical Research**_, 2025, 11(2):e70022.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40001321)
+<span class='__dimensions_badge_embed__' data-pmid='40001321' data-style='large_rectangle' style='display: inline-block;'></span>
 4. Yao Y#, Xu Y#, Zhang Y, Gui Y, Bai Q, Zhu Z, Peng H, Zhou Y, Chen ZJ, **`Sun J*`**, Su J\*. Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network. _**Small Methods**_, 2025, doi: 10.1002/smtd.202400991.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39962810)
 <span class='__dimensions_badge_embed__' data-pmid='39962810' data-style='large_rectangle' style='display: inline-block;'></span>
@@ -80,21 +85,18 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 {: reversed="reversed"}
 
 ### 2023
-14. Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2023, S1933-0219(23)00091-0.
+13. Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2023, S1933-0219(23)00091-0.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38007004)
 <span class='__dimensions_badge_embed__' data-pmid='38007004' data-style='large_rectangle' style='display: inline-block;'></span>
-13. **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, 167:107616.
+12. **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, 167:107616.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37922601)
 <span class='__dimensions_badge_embed__' data-pmid='37922601' data-style='large_rectangle' style='display: inline-block;'></span>
-12. **Li K#**, Sun L#, Wang Y#, **Cen Y**, **Zhao J**, Liao Q, Wu W\*, **`Sun J*`** and **`Zhou M*`**. Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior. _**Experimental & Molecular Medicine**_, 2023, 55(11):2433-2444.
+11. **Li K#**, Sun L#, Wang Y#, **Cen Y**, **Zhao J**, Liao Q, Wu W\*, **`Sun J*`** and **`Zhou M*`**. Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior. _**Experimental & Molecular Medicine**_, 2023, 55(11):2433-2444.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37907747)
 <span class='__dimensions_badge_embed__' data-pmid='37907747' data-style='large_rectangle' style='display: inline-block;'></span>
-11. Zhao N#, **Zhang Z#**, Wang Q#, Li L#, Wei Z, Chen H\*, **`Zhou M*`**, Liu Z\*, Su J\*. DNA damage repair profiling of esophageal squamous cell carcinoma uncovers clinically relevant molecular subtypes with distinct prognoses and therapeutic vulnerabilities. _**eBioMedicine**_, 2023, 96:104801.
+10. Zhao N#, **Zhang Z#**, Wang Q#, Li L#, Wei Z, Chen H\*, **`Zhou M*`**, Liu Z\*, Su J\*. DNA damage repair profiling of esophageal squamous cell carcinoma uncovers clinically relevant molecular subtypes with distinct prognoses and therapeutic vulnerabilities. _**eBioMedicine**_, 2023, 96:104801.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37725855)
 <span class='__dimensions_badge_embed__' data-pmid='37725855' data-style='large_rectangle' style='display: inline-block;'></span>
-10. **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2023, doi: 10.1109/JBHI.2023.3308440.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37616142)
-<span class='__dimensions_badge_embed__' data-pmid='37616142' data-style='large_rectangle' style='display: inline-block;'></span>
 9. **Chen L#**, Ma R#, Luo C#, Xie Q#, Ning X, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA. _**Translational Research**_, 2023, 262:12-24.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37499745)
 <span class='__dimensions_badge_embed__' data-pmid='37499745' data-style='large_rectangle' style='display: inline-block;'></span>
