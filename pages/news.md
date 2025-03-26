@@ -8,9 +8,13 @@ permalink: /news
 
 ### 2025
 
+#### March
+- Congratulations to Zicheng, Siqi's paper about "Proteogenomic characterization of high-grade lung neuroendocrine carcinoma deciphers molecular diversity and potential biomarkers of different histological subtypes in Chinese population" was accepted by _**Research**_. 
+- Congratulations to Yichun's paper about "Transcriptomic profiling of blood platelets identifies a diagnostic signature for pancreatic cancer" was accepted by _**British Journal of Cancer**_. 
+
 #### February
-- Congratulations to Congcong's paper about "Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma" on _**Journal of Pathology Clinical Research**_. 
-- Congratulations to Jie's paper about "Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network" on _**Small Methods**_. 
+- Congratulations to Congcong's paper about "Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma" was published on _**Journal of Pathology Clinical Research**_. 
+- Congratulations to Jie's paper about "Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network" was published on _**Small Methods**_. 
 
 #### January
 - Congratulations! Ye contributed a paper about "Pan-cancer characterization of m6A-mediated regulation of T cell exhaustion dynamics and clinical relevancies in human cancers" on _**Molecular Therapy: Nucleic Acids**_. 
