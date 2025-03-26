@@ -16,7 +16,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 
 ### 2025
 8. **Zhang Z#**, Wu X#, **Bao S#**, Sun X#, Yang F, **Zhang Y**, **Yang Z**, **Zhang L**, Chen R, Xing P, Li J, **`Zhou M*`**, Yang L\*. Proteogenomic characterization of high-grade lung neuroendocrine carcinoma deciphers molecular diversity and potential biomarkers of different histological subtypes in Chinese population. _**Research**_, 2025, In Press.
-7. Ji W#, **Xiong Y#**, Yang W#, Shao Z, Guo X, Jin G, Su J\*, **`Zhou M*`**. Transcriptomic profiling of blood platelets identifies a diagnostic signature for pancreatic cancer. _**British Journal of Cancer**_, 2025, In Press.
+7. Ji W#, **Xiong Y#**, Yang W#, Shao Z, Guo X, Jin G, Su J\*, **`Zhou M*`**. Transcriptomic profiling of blood platelets identifies a diagnostic signature for pancreatic cancer. _**British Journal of Cancer**_, 2025, doi:10.1038/s41416-025-02980-z.
 6. **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2025, 29(3):1861-1871.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37616142)
 <span class='__dimensions_badge_embed__' data-pmid='37616142' data-style='large_rectangle' style='display: inline-block;'></span>
@@ -38,7 +38,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 {: reversed="reversed"}
 
 ### 2024
-16. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2024, doi:10.1038/s43588-024-00748-8.
+16. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2024, 5:207-220.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39715829)
 <span class='__dimensions_badge_embed__' data-pmid='39715829' data-style='large_rectangle' style='display: inline-block;'></span>
 15. **Li K**, **Huang J**, **Tan Y**, **`Sun J*`** & **`Zhou M*`**. Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma. _**Journal of Translational Medicine**_, 2024, 22(1):1020.
