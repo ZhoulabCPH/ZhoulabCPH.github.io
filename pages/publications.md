@@ -15,32 +15,32 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
-8. **Zhang Z#**, Wu X#, **Bao S#**, Sun X#, Yang F, **Zhang Y**, **Yang Z**, **Zhang L**, Chen R, Xing P, Li J, **`Zhou M*`**, Yang L\*. Proteogenomic characterization of high-grade lung neuroendocrine carcinoma deciphers molecular diversity and potential biomarkers of different histological subtypes in Chinese population. _**Research**_, 2025, In Press.
-7. Ji W#, **Xiong Y#**, Yang W#, Shao Z, Guo X, Jin G, Su J\*, **`Zhou M*`**. Transcriptomic profiling of blood platelets identifies a diagnostic signature for pancreatic cancer. _**British Journal of Cancer**_, 2025, doi:10.1038/s41416-025-02980-z.
-6. **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2025, 29(3):1861-1871.
+9. **Zhang Z#**, Wu X#, **Bao S#**, Sun X#, Yang F, **Zhang Y**, **Yang Z**, **Zhang L**, Chen R, Xing P, Li J, **`Zhou M*`**, Yang L\*. Proteogenomic characterization of high-grade lung neuroendocrine carcinoma deciphers molecular diversity and potential biomarkers of different histological subtypes in Chinese population. _**Research**_, 2025, In Press.
+8. Ji W#, **Xiong Y#**, Yang W#, Shao Z, Guo X, Jin G, Su J\*, **`Zhou M*`**. Transcriptomic profiling of blood platelets identifies a diagnostic signature for pancreatic cancer. _**British Journal of Cancer**_, 2025, doi:10.1038/s41416-025-02980-z.
+7. **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2025, 29(3):1861-1871.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37616142)
 <span class='__dimensions_badge_embed__' data-pmid='37616142' data-style='large_rectangle' style='display: inline-block;'></span>
-5. **Yan C#**, Zheng C#, Luo J, Wu X, Meng X, Lv C, Shen S, **`Zhou M*`**, Wang O\*. Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma. _**Journal of Pathology: Clinical Research**_, 2025, 11(2):e70022.
+6. **Yan C#**, Zheng C#, Luo J, Wu X, Meng X, Lv C, Shen S, **`Zhou M*`**, Wang O\*. Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma. _**Journal of Pathology: Clinical Research**_, 2025, 11(2):e70022.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40001321)
 <span class='__dimensions_badge_embed__' data-pmid='40001321' data-style='large_rectangle' style='display: inline-block;'></span>
-4. Yao Y#, Xu Y#, Zhang Y, Gui Y, Bai Q, Zhu Z, Peng H, Zhou Y, Chen ZJ, **`Sun J*`**, Su J\*. Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network. _**Small Methods**_, 2025, doi: 10.1002/smtd.202400991.
+5. Yao Y#, Xu Y#, Zhang Y, Gui Y, Bai Q, Zhu Z, Peng H, Zhou Y, Chen ZJ, **`Sun J*`**, Su J\*. Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network. _**Small Methods**_, 2025, doi: 10.1002/smtd.202400991.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39962810)
 <span class='__dimensions_badge_embed__' data-pmid='39962810' data-style='large_rectangle' style='display: inline-block;'></span>
-3. **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2025, 62(3):3182-3194.
+4. **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2025, 62(3):3182-3194.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39240279)
 <span class='__dimensions_badge_embed__' data-pmid='39240279' data-style='large_rectangle' style='display: inline-block;'></span>
-2. Ji W#, **Fang Y#**, **Chen L**, **Zheng Y**, Pei Y, Mei C, **`Zhou M*`**. Pan-cancer characterization of m6A-mediated regulation of T cell exhaustion dynamics and clinical relevancies in human cancers. _**Molecular Therapy: Nucleic Acids**_, 2025, 36(1):102465.
+3. Ji W#, **Fang Y#**, **Chen L**, **Zheng Y**, Pei Y, Mei C, **`Zhou M*`**. Pan-cancer characterization of m6A-mediated regulation of T cell exhaustion dynamics and clinical relevancies in human cancers. _**Molecular Therapy: Nucleic Acids**_, 2025, 36(1):102465.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39995977)
 <span class='__dimensions_badge_embed__' data-pmid='39995977' data-style='large_rectangle' style='display: inline-block;'></span>
-1. **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2025, 156(3):668-678.
+2. **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2025, 156(3):668-678.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39190008)
 <span class='__dimensions_badge_embed__' data-pmid='39190008' data-style='large_rectangle' style='display: inline-block;'></span>
+1. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2025, 5:207-220.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39715829)
+<span class='__dimensions_badge_embed__' data-pmid='39715829' data-style='large_rectangle' style='display: inline-block;'></span>
 {: reversed="reversed"}
 
 ### 2024
-16. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2024, 5:207-220.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39715829)
-<span class='__dimensions_badge_embed__' data-pmid='39715829' data-style='large_rectangle' style='display: inline-block;'></span>
 15. **Li K**, **Huang J**, **Tan Y**, **`Sun J*`** & **`Zhou M*`**. Single-cell and bulk transcriptome analysis reveals tumor cell heterogeneity and underlying molecular program in uveal melanoma. _**Journal of Translational Medicine**_, 2024, 22(1):1020.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39533334)
 <span class='__dimensions_badge_embed__' data-pmid='39533334' data-style='large_rectangle' style='display: inline-block;'></span>
