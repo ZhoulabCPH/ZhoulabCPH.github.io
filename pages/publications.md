@@ -35,7 +35,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 2. **Shi X**, Lu M, Li X, **Li J**, **Bao S**, **Jia C**, Chen H\*, **`Zhou M*`**. The transcriptional landscape and clinico-biological characterization of human endogenous retroviruses in esophageal squamous cell carcinoma. _**International Journal of Cancer**_, 2025, 156(3):668-678.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39190008)
 <span class='__dimensions_badge_embed__' data-pmid='39190008' data-style='large_rectangle' style='display: inline-block;'></span>
-1. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2025, 5:207-220.
+1. **Yan D**, **Bao S**, **Zhang Z**, **`Sun J*`** & **`Zhou M*`**. Leveraging pharmacovigilance data to predict population-scale toxicity profiles of checkpoint inhibitor immunotherapy. _**Nature Computational Science**_, 2025, 5(3):207-220.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39715829)
 <span class='__dimensions_badge_embed__' data-pmid='39715829' data-style='large_rectangle' style='display: inline-block;'></span>
 {: reversed="reversed"}
