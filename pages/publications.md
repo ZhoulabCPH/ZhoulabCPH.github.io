@@ -15,7 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
-10. **Xiong Y#**,**Li J#**,**Jin W**,**Sheng X**,**Peng H**,**Wang Z**,**Jia C**,**Zhuo L**,**Zhang Y**,**Huang J**,**Zhai M**,**Lyu B**,**`Sun J*`** & **`Zhou M*`**. PCMR: a comprehensive precancerous molecular resource. _**Scientific Data**_, 2025, 12:551. doi: 10.1038/s41597-025-04899-9.
+10. **Xiong Y#**, **Li J#**, **Jin W**, Sheng X, Peng H, Wang Z, **Jia C**, **Zhuo L**, **Zhang Y**, **Huang J**, **Zhai M**, **Lyu B**, **`Sun J*`** & **`Zhou M*`**. PCMR: a comprehensive precancerous molecular resource. _**Scientific Data**_, 2025, 12:551. doi: 10.1038/s41597-025-04899-9.
 9. **Zhang Z#**, Wu X#, **Bao S#**, Sun X#, Yang F, **Zhang Y**, **Yang Z**, **Zhang L**, Chen R, Xing P, Li J, **`Zhou M*`**, Yang L\*. Proteogenomic characterization of high-grade lung neuroendocrine carcinoma deciphers molecular diversity and potential biomarkers of different histological subtypes in Chinese population. _**Research**_, 2025, In Press.
 8. Ji W#, **Xiong Y#**, Yang W#, Shao Z, Guo X, Jin G, Su J\*, **`Zhou M*`**. Transcriptomic profiling of blood platelets identifies a diagnostic signature for pancreatic cancer. _**British Journal of Cancer**_, 2025, doi:10.1038/s41416-025-02980-z.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40133510)
