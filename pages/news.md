@@ -8,6 +8,9 @@ permalink: /news
 
 ### 2025
 
+#### April
+- Congratulations to Yichun and Jiaqi about "PCMR: a comprehensive precancerous molecular resource" was published on _**Scientific Data**_. 
+
 #### March
 - Congratulations to Zicheng, Siqi's paper about "Proteogenomic characterization of high-grade lung neuroendocrine carcinoma deciphers molecular diversity and potential biomarkers of different histological subtypes in Chinese population" was accepted by _**Research**_. 
 - Congratulations to Yichun's paper about "Transcriptomic profiling of blood platelets identifies a diagnostic signature for pancreatic cancer" was accepted by _**British Journal of Cancer**_. 
