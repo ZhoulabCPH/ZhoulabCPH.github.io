@@ -15,6 +15,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+11. **Zhang Y#**, Wang S#, Liu X, Qu Y, **Yang Z**, **Su Y**, Hu B, Mao Y\*, Lin D\*, Yang L\*, **`Zhou M*`**. Biopsy image-based deep learning for predicting pathologic response to neoadjuvant chemotherapy in patients with NSCLC. _**npj Precision Oncology**_, 9, 132 (2025).
+[[Abstract]](https://www.nature.com/articles/s41698-025-00927-4)
 10. **Zhang Z#**, Wu X#, **Bao S#**, Sun X#, Yang F, **Zhang Y**, **Yang Z**, **Zhang L**, Chen R, Xing P, Li J, **`Zhou M*`**, Yang L\*. Proteogenomic Characterization of High-Grade Lung Neuroendocrine Carcinoma Deciphers Molecular Diversity and Potential Biomarkers of Different Histological Subtypes in Chinese Population. _**Research**_, 2025, 8:0671.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40230612)
 <span class='__dimensions_badge_embed__' data-pmid='40230612' data-style='large_rectangle' style='display: inline-block;'></span>
