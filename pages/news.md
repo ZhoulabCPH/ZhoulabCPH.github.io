@@ -8,7 +8,7 @@ permalink: /news
 
 ### 2025
 
-#### April
+#### May
 - Congratulations to Yibo on the publication of the paper "Biopsy image-based deep learning for predicting pathologic response to neoadjuvant chemotherapy in patients with NSCLC" in _**npj Precision Oncology**_.
 
 #### April
