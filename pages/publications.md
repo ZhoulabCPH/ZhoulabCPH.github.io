@@ -15,7 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
-13. **Yang Z#**, Guo C#, Li J#, Li Y#, Zhong L#, Pu P, Shang T, Cong L, Zhou Y, Qiao G, Jia Z, Xu H, Cao H, Huang Y, Liu T, Liang J, Wu J, Ma D, Liu Y, Zhou R, Wang X, Ying J\*, **`Zhou M*`**, Liu J\*. An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer. _**Advanced Science**_, 2025, 8:0671.
+13. **Yang Z#**, Guo C#, Li J#, Li Y#, Zhong L#, Pu P, Shang T, Cong L, Zhou Y, Qiao G, Jia Z, Xu H, Cao H, Huang Y, Liu T, Liang J, Wu J, Ma D, Liu Y, Zhou R, Wang X, Ying J\*, **`Zhou M*`**, Liu J\*. An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer. _**Advanced Science**_, 2025, e02833.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40439693)
 <span class='__dimensions_badge_embed__' data-pmid='40439693' data-style='large_rectangle' style='display: inline-block;'></span>
 12. Jiang D#, **Li K#**, Sun Y#, **Zhang Z**, Xie S, Yu X, Wang R, Feng Y, Zheng Q, Wen Y, Reinach P.S, Du Y\*, **`Zhou M*`**, Chen W\*. Spatiotemporal single-cell analysis elucidates the cellular and molecular dynamics of human cornea aging. _**Genome Medicine**_, 2025, 17(1):56.
