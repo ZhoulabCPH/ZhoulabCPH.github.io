@@ -9,6 +9,7 @@ permalink: /news
 ### 2025
 
 #### May
+- Congratulations to Zijian on the publication of the paper "An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer" in _**Advanced Science**_.
 - Congratulations to Ke on the publication of the paper "Spatiotemporal single-cell analysis elucidates the cellular and molecular dynamics of human cornea aging" in _**Genome Medicine**_.
 - Congratulations to Yibo on the publication of the paper "Biopsy image-based deep learning for predicting pathologic response to neoadjuvant chemotherapy in patients with NSCLC" in _**npj Precision Oncology**_.
 
