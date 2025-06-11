@@ -7,6 +7,8 @@ permalink: /news
 # News
 
 ### 2025
+#### June
+- Congratulations to Xinrui on the publication of the paper "Plasma proteomic signature for preoperative prediction of microvascular invasion in HCC" in _**JHEP Reports**_.
 
 #### May
 - Congratulations to Zijian on the publication of the paper "An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer" in _**Advanced Science**_.
