@@ -15,6 +15,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+15. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2025.
+[[Abstract]](https://www.sciencedirect.com/science/article/pii/S2090123225004278#ab010)
 14. **Shi X#**, Zhao Y#, **Li K#**, Li Q, Cui Y, Sui Y, Zhao L, Zhou H, Yang Y, Li J, **`Zhou M*`**, Lu Z\*. Plasma proteomic signature for preoperative prediction of microvascular invasion in HCC. _**JHEP Reports**_, 2025, 101481.
 [[Abstract]](https://www.sciencedirect.com/science/article/pii/S2589555925001594#abs0020)
 13. **Yang Z#**, Guo C#, Li J#, Li Y#, Zhong L#, Pu P, Shang T, Cong L, Zhou Y, Qiao G, Jia Z, Xu H, Cao H, Huang Y, Liu T, Liang J, Wu J, Ma D, Liu Y, Zhou R, Wang X, Ying J\*, **`Zhou M*`**, Liu J\*. An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer. _**Advanced Science**_, 2025, e02833.
