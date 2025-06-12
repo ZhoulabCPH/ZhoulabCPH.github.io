@@ -8,6 +8,7 @@ permalink: /news
 
 ### 2025
 #### June
+- Congratulations to Zicheng on the publication of the paper "Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas" in _**Journal of Advanced Research**_.
 - Congratulations to Xinrui on the publication of the paper "Plasma proteomic signature for preoperative prediction of microvascular invasion in HCC" in _**JHEP Reports**_.
 
 #### May
