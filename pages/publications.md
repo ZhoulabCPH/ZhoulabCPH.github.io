@@ -15,8 +15,12 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+16. **Li X#**, Yang F#, **Zhang Y**, **Yang Z**, Chen R, **`Zhou M*`**, Yang L\*. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Briefings in Bioinformatics**_, 2025, 26(3):bbaf284.
+[[Abstract]](https://academic.oup.com/bib/article/26/3/bbaf284/8169706?guestAccessKey=bdfa4b97-5d80-4cde-a4e0-2031acf14a4b&utm_source=authortollfreelink&utm_campaign=bib&utm_medium=email#523489074)
+<span class='__dimensions_badge_embed__' data-pmid='40513660' data-style='large_rectangle' style='display: inline-block;'></span>
 15. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2025.
-[[Abstract]](https://www.sciencedirect.com/science/article/pii/S2090123225004278#ab010)
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40513660/)
+<span class='__dimensions_badge_embed__' data-pmid='40513660' data-style='large_rectangle' style='display: inline-block;'></span>
 14. **Shi X#**, Zhao Y#, **Li K#**, Li Q, Cui Y, Sui Y, Zhao L, Zhou H, Yang Y, Li J, **`Zhou M*`**, Lu Z\*. Plasma proteomic signature for preoperative prediction of microvascular invasion in HCC. _**JHEP Reports**_, 2025, 101481.
 [[Abstract]](https://www.sciencedirect.com/science/article/pii/S2589555925001594#abs0020)
 13. **Yang Z#**, Guo C#, Li J#, Li Y#, Zhong L#, Pu P, Shang T, Cong L, Zhou Y, Qiao G, Jia Z, Xu H, Cao H, Huang Y, Liu T, Liang J, Wu J, Ma D, Liu Y, Zhou R, Wang X, Ying J\*, **`Zhou M*`**, Liu J\*. An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer. _**Advanced Science**_, 2025, e02833.
