@@ -7,6 +7,9 @@ permalink: /news
 # News
 
 ### 2025
+#### July
+- Congratulations to Yixin on the publication of the paper "Maternal plasma microRNA signatures for early detection of early-onset preeclampsia" in _**International Journal of Biological Macromolecules**_.
+- 
 #### June
 - Congratulations to Xin on the publication of the paper "DeepTFtyper: an interpretable morphology-aware graph neural network for translating histopathology images into molecular subtypes in small cell lung cancer" in _**Briefings in Bioinformatics**_.
 - Congratulations to Zicheng on the publication of the paper "Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas" in _**Journal of Advanced Research**_.
