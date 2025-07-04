@@ -15,9 +15,12 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+17. **Cen Y#**, Bao J#, Zhou T, Yin F, Xu Z\*, **`Zhou M*`**. Maternal plasma microRNA signatures for early detection of early-onset preeclampsia. _**International Journal of Biological Macromolecules**_, 2025, 145654.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40602577/)
+<span class='__dimensions_badge_embed__' data-pmid='40602577' data-style='large_rectangle' style='display: inline-block;'></span>
 16. **Li X#**, Yang F#, **Zhang Y**, **Yang Z**, Chen R, **`Zhou M*`**, Yang L\*. DeepTFtyper: an interpretable morphology-aware graph neural network for translating histopathology images into molecular subtypes in small cell lung cancer. _**Briefings in Bioinformatics**_, 2025, 26(3):bbaf284.
-[[Abstract]](https://academic.oup.com/bib/article/26/3/bbaf284/8169706?guestAccessKey=bdfa4b97-5d80-4cde-a4e0-2031acf14a4b&utm_source=authortollfreelink&utm_campaign=bib&utm_medium=email#523489074)
-<span class='__dimensions_badge_embed__' data-pmid='40513660' data-style='large_rectangle' style='display: inline-block;'></span>
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40539233/)
+<span class='__dimensions_badge_embed__' data-pmid='40539233' data-style='large_rectangle' style='display: inline-block;'></span>
 15. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2025.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40513660/)
 <span class='__dimensions_badge_embed__' data-pmid='40513660' data-style='large_rectangle' style='display: inline-block;'></span>
