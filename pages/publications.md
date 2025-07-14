@@ -15,6 +15,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+18. **Yan C#**, Yi Q#, Ge L, Huang Y, Yang C, Lin B\*, Jiang D\*, **`Zhou M*`**. Metabolomics analysis uncovers metabolic changes and remodeling of anti-VEGF therapy on macular edema. _**Eye and Vision**_, 2025, 12(1):28.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40653498/)
+<span class='__dimensions_badge_embed__' data-pmid='40653498' data-style='large_rectangle' style='display: inline-block;'></span>
 17. **Cen Y#**, Bao J#, Zhou T, Yin F, Xu Z\*, **`Zhou M*`**. Maternal plasma microRNA signatures for early detection of early-onset preeclampsia. _**International Journal of Biological Macromolecules**_, 2025, 145654.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40602577/)
 <span class='__dimensions_badge_embed__' data-pmid='40602577' data-style='large_rectangle' style='display: inline-block;'></span>
