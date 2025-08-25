@@ -7,6 +7,9 @@ permalink: /news
 # News
 
 ### 2025
+#### August
+- Congratulations to Zijian on the publication of the paper "An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer" in _**Advanced Science**_.
+
 #### July
 - Congratulations to Congcong on the publication of the paper "Metabolomics analysis uncovers metabolic changes and remodeling of anti-VEGF therapy on macular edema" in _**Eye and Vision**_.
 - Congratulations to Yixin on the publication of the paper "Maternal plasma microRNA signatures for early detection of early-onset preeclampsia" in _**International Journal of Biological Macromolecules**_.
