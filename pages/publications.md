@@ -114,7 +114,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 2. Li CX#, **Chen H#**, Kermani NZ, Adcock IM, Sköld CM, **`Zhou M*`**, Wheelock ÅM\*, U-BIOPRED study group. Consensus clustering with missing labels (ccml): a consensus clustering tool for multi-omics integrative prediction in cohorts with unequal sample coverage. _**Briefings in Bioinformatics**_, 2024, 25(1):bbad501.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38205966)
 <span class='__dimensions_badge_embed__' data-pmid='38205966' data-style='large_rectangle' style='display: inline-block;'></span>
-1. **Li K#**, Zhang R#, Wen F#, Zhao Y, Meng F, Li Q, Hao A, Yang B, Lu Z\*, Cui Y\*, **`Zhou M*`**. Single-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma. _**Hepatology**_, 2024, 79(6):1293-1309.
+1. **Li K#**, Zhang R#, Wen F#, Zhao Y, Meng F, Li Q, Hao A, Yang B, Lu Z\*, Cui Y\*, **`Zhou M*`**. Single-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in HCC. _**Hepatology**_, 2024, 79(6):1293-1309.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37972953)
 <span class='__dimensions_badge_embed__' data-pmid='37972953' data-style='large_rectangle' style='display: inline-block;'></span>
 {: reversed="reversed"}
