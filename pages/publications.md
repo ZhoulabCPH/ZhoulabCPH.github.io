@@ -15,9 +15,6 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
-19. **Yang Z#**, Guo C#, Li J#, Li Y#, Zhong L#, Pu P, Shang T, Cong L, Zhou Y, Qiao G, Jia Z, Xu H, Cao H, Huang Y, Liu T, Liang J, Wu J, Ma D, Liu Y, Zhou R, Wang X, Ying J\*, **`Zhou M*`**, Liu J\*. An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer. _**Advanced Science**_, 2025, 12(31):e02833.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40439693/)
-<span class='__dimensions_badge_embed__' data-pmid='40439693' data-style='large_rectangle' style='display: inline-block;'></span>
 18. **Yan C#**, Yi Q#, Ge L, Huang Y, Yang C, Lin B\*, Jiang D\*, **`Zhou M*`**. Metabolomics analysis uncovers metabolic changes and remodeling of anti-VEGF therapy on macular edema. _**Eye and Vision**_, 2025, 12(1):28.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40653498/)
 <span class='__dimensions_badge_embed__' data-pmid='40653498' data-style='large_rectangle' style='display: inline-block;'></span>
@@ -32,8 +29,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 <span class='__dimensions_badge_embed__' data-pmid='40513660' data-style='large_rectangle' style='display: inline-block;'></span>
 14. **Shi X#**, Zhao Y#, **Li K#**, Li Q, Cui Y, Sui Y, Zhao L, Zhou H, Yang Y, Li J, **`Zhou M*`**, Lu Z\*. Plasma proteomic signature for preoperative prediction of microvascular invasion in HCC. _**JHEP Reports**_, 2025, 101481.
 [[Abstract]](https://www.sciencedirect.com/science/article/pii/S2589555925001594#abs0020)
-13. **Yang Z#**, Guo C#, Li J#, Li Y#, Zhong L#, Pu P, Shang T, Cong L, Zhou Y, Qiao G, Jia Z, Xu H, Cao H, Huang Y, Liu T, Liang J, Wu J, Ma D, Liu Y, Zhou R, Wang X, Ying J\*, **`Zhou M*`**, Liu J\*. An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer. _**Advanced Science**_, 2025, e02833.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40439693)
+13. **Yang Z#**, Guo C#, Li J#, Li Y#, Zhong L#, Pu P, Shang T, Cong L, Zhou Y, Qiao G, Jia Z, Xu H, Cao H, Huang Y, Liu T, Liang J, Wu J, Ma D, Liu Y, Zhou R, Wang X, Ying J\*, **`Zhou M*`**, Liu J\*. An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer. _**Advanced Science**_, 2025, 12(31):e02833.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40439693/)
 <span class='__dimensions_badge_embed__' data-pmid='40439693' data-style='large_rectangle' style='display: inline-block;'></span>
 12. Jiang D#, **Li K#**, Sun Y#, **Zhang Z**, Xie S, Yu X, Wang R, Feng Y, Zheng Q, Wen Y, Reinach P.S, Du Y\*, **`Zhou M*`**, Chen W\*. Spatiotemporal single-cell analysis elucidates the cellular and molecular dynamics of human cornea aging. _**Genome Medicine**_, 2025, 17(1):56.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40390022/)
