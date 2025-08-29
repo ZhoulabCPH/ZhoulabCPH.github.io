@@ -18,7 +18,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 18. **Yan C#**, Yi Q#, Ge L, Huang Y, Yang C, Lin B\*, Jiang D\*, **`Zhou M*`**. Metabolomics analysis uncovers metabolic changes and remodeling of anti-VEGF therapy on macular edema. _**Eye and Vision**_, 2025, 12(1):28.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40653498/)
 <span class='__dimensions_badge_embed__' data-pmid='40653498' data-style='large_rectangle' style='display: inline-block;'></span>
-17. **Cen Y#**, Bao J#, Zhou T, Yin F, Xu Z\*, **`Zhou M*`**. Maternal plasma microRNA signatures for early detection of early-onset preeclampsia. _**International Journal of Biological Macromolecules**_, 2025, 145654.
+17. **Cen Y#**, Bao J#, Zhou T, Yin F, Xu Z\*, **`Zhou M*`**. Maternal plasma microRNA signatures for early detection of early-onset preeclampsia. _**International Journal of Biological Macromolecules**_, 2025, 320(Pt 1):145654.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40602577/)
 <span class='__dimensions_badge_embed__' data-pmid='40602577' data-style='large_rectangle' style='display: inline-block;'></span>
 16. **Li X#**, Yang F#, **Zhang Y**, **Yang Z**, Chen R, **`Zhou M*`**, Yang L\*. DeepTFtyper: an interpretable morphology-aware graph neural network for translating histopathology images into molecular subtypes in small cell lung cancer. _**Briefings in Bioinformatics**_, 2025, 26(3):bbaf284.
@@ -44,7 +44,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 9. **Xiong Y#**, **Li J#**, **Jin W**, Sheng X, Peng H, Wang Z, **Jia C**, **Zhuo L**, **Zhang Y**, **Huang J**, **Zhai M**, **Lyu B**, **`Sun J*`**, **`Zhou M*`**. PCMR: a comprehensive precancerous molecular resource. _**Scientific Data**_, 2025, 12(1):551.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40169679)
 <span class='__dimensions_badge_embed__' data-pmid='40169679' data-style='large_rectangle' style='display: inline-block;'></span>
-8. Ji W#, **Xiong Y#**, Yang W#, Shao Z, Guo X, Jin G, Su J\*, **`Zhou M*`**. Transcriptomic profiling of blood platelets identifies a diagnostic signature for pancreatic cancer. _**British Journal of Cancer**_, 2025, doi:10.1038/s41416-025-02980-z.
+8. Ji W#, **Xiong Y#**, Yang W#, Shao Z, Guo X, Jin G, Su J\*, **`Zhou M*`**. Transcriptomic profiling of blood platelets identifies a diagnostic signature for pancreatic cancer. _**British Journal of Cancer**_, 2025, 132(10):937-946.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40133510)
 <span class='__dimensions_badge_embed__' data-pmid='40133510' data-style='large_rectangle' style='display: inline-block;'></span>
 7. **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2025, 29(3):1861-1871.
@@ -53,7 +53,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 6. **Yan C#**, Zheng C#, Luo J, Wu X, Meng X, Lv C, Shen S, **`Zhou M*`**, Wang O\*. Comprehensive transcriptomic profiling reveals molecular characteristics and biomarkers associated with risk stratification in papillary thyroid carcinoma. _**Journal of Pathology: Clinical Research**_, 2025, 11(2):e70022.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40001321)
 <span class='__dimensions_badge_embed__' data-pmid='40001321' data-style='large_rectangle' style='display: inline-block;'></span>
-5. Yao Y#, Xu Y#, Zhang Y, Gui Y, Bai Q, Zhu Z, Peng H, Zhou Y, Chen ZJ, **`Sun J*`**, Su J\*. Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network. _**Small Methods**_, 2025, doi: 10.1002/smtd.202400991.
+5. Yao Y#, Xu Y#, Zhang Y, Gui Y, Bai Q, Zhu Z, Peng H, Zhou Y, Chen ZJ, **`Sun J*`**, Su J\*. Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network. _**Small Methods**_, 2025, 9(5):e2400991.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/39962810)
 <span class='__dimensions_badge_embed__' data-pmid='39962810' data-style='large_rectangle' style='display: inline-block;'></span>
 4. **Zhang Z#**, **Bao S#**, **Yan D**, **Zhai M**, Qu J\*, **`Zhou M*`**. Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry. _**Molecular Neurobiology**_, 2025, 62(3):3182-3194.
