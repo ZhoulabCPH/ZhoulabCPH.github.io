@@ -8,6 +8,7 @@ permalink: /news
 
 ### 2025
 #### August
+- Congratulations to Yibo on the publication of the paper "Deep learning-based histomorphological subtyping and risk stratification of small cell lung cancer from hematoxylin and eosin-stained whole slide images" in _**Genome Medicine**_.
 - Congratulations to Zijian on the publication of the paper "An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer" in _**Advanced Science**_.
 
 #### July
