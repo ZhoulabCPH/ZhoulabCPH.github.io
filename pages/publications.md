@@ -15,6 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+19. **Zhang Y#**, Liu S#, Chen J#, Chen R, **Yang Z**, Sheng R, **Li X**, **Wang T**, Liu H, Yang F, Ying J\*, Yang L\*, Sun J\*, **`Zhou M*`**. Deep learning-based histomorphological subtyping and risk stratification of small cell lung cancer from hematoxylin and eosin-stained whole slide images. _**Genome Medicine**_, 2025, 17, 98.
 18. **Yan C#**, Yi Q#, Ge L, Huang Y, Yang C, Lin B\*, Jiang D\*, **`Zhou M*`**. Metabolomics analysis uncovers metabolic changes and remodeling of anti-VEGF therapy on macular edema. _**Eye and Vision**_, 2025, 12(1):28.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40653498/)
 <span class='__dimensions_badge_embed__' data-pmid='40653498' data-style='large_rectangle' style='display: inline-block;'></span>
