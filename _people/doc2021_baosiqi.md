@@ -1,7 +1,7 @@
 ---
 title: Siqi Bao
 layout: people
-permalink: /people/doc2021_baosiqi.jpeg
+permalink: /people/doc2021_baosiqi.jpg
 status: Student
 pname: Siqi Bao
 position: Ph.D. Candidate
