@@ -16,7 +16,11 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 
 ### 2025
 21. **Yan D#**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2025.
-20. Liu Y#, **Su Y#**, Peng J#, Zhang W#, Zhao F, Li Y, Song X, Ma Z, Zhang W, Ji J, Chen Y, Men Y, Ye F, Men K, Qin J, Liu W, Wang X, Bi N, Xue L, Yu W\*, Wang Q\*, **`Zhou M*`**, Hui Z\*. A multidimensional deep ensemble learning model predicts pathological response and outcomes in esophageal squamous cell carcinoma treated with neoadjuvant chemoradiotherapy from pretreatment CT imaging: A multicenter study. _**Radiotherapy and Oncology**_, 2025, 111133.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40948045/)
+<span class='__dimensions_badge_embed__' data-pmid='40948045' data-style='large_rectangle' style='display: inline-block;'></span>
+20. Liu Y#, **Su Y#**, Peng J#, Zhang W#, Zhao F, Li Y, Song X, Ma Z, Zhang W, Ji J, Chen Y, Men Y, Ye F, Men K, Qin J, Liu W, Wang X, Bi N, Xue L, Yu W\*, Wang Q\*, **`Zhou M*`**, Hui Z\*. A multidimensional deep ensemble learning model predicts pathological response and outcomes in esophageal squamous cell carcinoma treated with neoadjuvant chemoradiotherapy from pretreatment CT imaging: A multicenter study. _**Radiotherapy and Oncology**_, 2025, 212, 111133.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40939680/)
+<span class='__dimensions_badge_embed__' data-pmid='40939680' data-style='large_rectangle' style='display: inline-block;'></span>
 19. **Zhang Y#**, Liu S#, Chen J#, Chen R, **Yang Z**, **Sheng R**, **Li X**, **Wang T**, Liu H, Yang F, Ying J\*, Yang L\*, Sun J\*, **`Zhou M*`**. Deep learning-based histomorphological subtyping and risk stratification of small cell lung cancer from hematoxylin and eosin-stained whole slide images. _**Genome Medicine**_, 2025, 17(1):98.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40898302/)
 <span class='__dimensions_badge_embed__' data-pmid='40898302' data-style='large_rectangle' style='display: inline-block;'></span>
