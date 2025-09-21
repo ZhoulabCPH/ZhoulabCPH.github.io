@@ -204,27 +204,33 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 {: reversed="reversed"}
 
 ### 2021
-11. Li CX#, Gao J#, **Zhang Z**, **Chen L**, Li X\*, **`Zhou M*`**, Wheelock ÅM\*. Multiomics integration-based molecular characterizations of COVID-19. _**Briefings in Bioinformatics**_, 2021, 23(1):bbab485.
+13. Li CX#, Gao J#, **Zhang Z**, **Chen L**, Li X\*, **`Zhou M*`**, Wheelock ÅM\*. Multiomics integration-based molecular characterizations of COVID-19. _**Briefings in Bioinformatics**_, 2021, 23(1):bbab485.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34864875)
 <span class='__dimensions_badge_embed__' data-pmid='34864875' data-style='large_rectangle' style='display: inline-block;'></span>
-10. Ji X#, **Zhang Z#**, Lin D, Dai M, Zhao X, Guo X, Du J, **`Zhou M*`**, WangY\*. A novel clinical five-risk factor panel for individualized recurrence risk assessment of patients with acute anterior uveitis. _**Transl Vis Sci Technol**_, 2021,10(13):29.
+12. Ji X#, **Zhang Z#**, Lin D, Dai M, Zhao X, Guo X, Du J, **`Zhou M*`**, WangY\*. A novel clinical five-risk factor panel for individualized recurrence risk assessment of patients with acute anterior uveitis. _**Transl Vis Sci Technol**_, 2021,10(13):29.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34817576)
 <span class='__dimensions_badge_embed__' data-pmid='34817576' data-style='large_rectangle' style='display: inline-block;'></span>
-9. **`Zhou M#`**, **Hou P#**, **Yan C#**, **Chen L**, **Li K**, **Wang Y**, **Zhao J**, **Su J\*** & **`Sun J*`**. Cell-free DNA 5-hydroxymethylcytosine profiles of long non-coding RNA genes enable early detection and progression monitoring of human cancers. _**Clinical Epigenetics**_, 2021, 13(1):197. 
+11. **`Zhou M#`**, **Hou P#**, **Yan C#**, **Chen L**, **Li K**, **Wang Y**, **Zhao J**, **Su J\*** & **`Sun J*`**. Cell-free DNA 5-hydroxymethylcytosine profiles of long non-coding RNA genes enable early detection and progression monitoring of human cancers. _**Clinical Epigenetics**_, 2021, 13(1):197. 
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34689838)
 <span class='__dimensions_badge_embed__' data-pmid='34689838' data-style='large_rectangle' style='display: inline-block;'></span>
-8. Xu L#, Zhuang Y#, Zhang G#, **Ma Y#**, **Yuan J#**, Tu C, Li MM, Wang W, **Zhang Y**, Lu X, Li J, Liu X, **Xue Z**, **`Zhou M`**, **`Sun J`**, Bao J, Li M, Lu F\*, Wang H\*, **Su J\***, Qu J\*. Design, methodology, and baseline of whole city-million scale children and adolescents myopia survey (CAMS) in Wenzhou, China. _**Eye and Vision**_, 2021,8(1):31
+10. Xu L#, Zhuang Y#, Zhang G#, **Ma Y#**, **Yuan J#**, Tu C, Li MM, Wang W, **Zhang Y**, Lu X, Li J, Liu X, **Xue Z**, **`Zhou M`**, **`Sun J`**, Bao J, Li M, Lu F\*, Wang H\*, **Su J\***, Qu J\*. Design, methodology, and baseline of whole city-million scale children and adolescents myopia survey (CAMS) in Wenzhou, China. _**Eye and Vision**_, 2021,8(1):31
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34407890)
 <span class='__dimensions_badge_embed__' data-pmid='34407890' data-style='large_rectangle' style='display: inline-block;'></span>
-7. Wang G#, Xu D#, **Zhang Z#**, Li X, Shi J, **`Sun J`**, Liu HZ, Li X\*, **`Zhou M*`** & Zheng T\*. The pan-cancer landscape of crosstalk between epithelial-mesenchymal transition and immune evasion relevant to prognosis and immunotherapy response. _**npj Precision Oncology**_, 2021, 5(1):56.
+9. Wang G#, Xu D#, **Zhang Z#**, Li X, Shi J, **`Sun J`**, Liu HZ, Li X\*, **`Zhou M*`** & Zheng T\*. The pan-cancer landscape of crosstalk between epithelial-mesenchymal transition and immune evasion relevant to prognosis and immunotherapy response. _**npj Precision Oncology**_, 2021, 5(1):56.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34158591)
 <span class='__dimensions_badge_embed__' data-pmid='34158591' data-style='large_rectangle' style='display: inline-block;'></span>
-6. **Zhang Z#**, **Yan C#**, **Li K**, **Bao S**, Li L, **Chen L**, **Zhao J**, **`Sun J*`** & **`Zhou M*`**. Pan-cancer characterization of lncRNA modifiers of immune microenvironment reveals clinically distinct de novo tumor subtypes. _**npj Genomic Medicine**_, 2021, 6(1):52.
+8. **Zhang Z#**, **Yan C#**, **Li K**, **Bao S**, Li L, **Chen L**, **Zhao J**, **`Sun J*`** & **`Zhou M*`**. Pan-cancer characterization of lncRNA modifiers of immune microenvironment reveals clinically distinct de novo tumor subtypes. _**npj Genomic Medicine**_, 2021, 6(1):52.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34140519)
 <span class='__dimensions_badge_embed__' data-pmid='34140519' data-style='large_rectangle' style='display: inline-block;'></span>
-5. Wang X#, Qian T#, **Bao S#**, **Zhao H**, Chen H, Xing Z, Li Y, Zhang M, Meng X, Wang C, Wang J, Gao H, Liu J\*, **`Zhou M*`**, Wang X\*. Circulating exosomal miR-363-5p inhibits lymph node metastasis by downregulating PDGFB and serves as a potential noninvasive biomarker for breast cancer. _**Molecular Oncology**_, 2021, 15(9):2466-2479.
+7. Wang X#, Qian T#, **Bao S#**, **Zhao H**, Chen H, Xing Z, Li Y, Zhang M, Meng X, Wang C, Wang J, Gao H, Liu J\*, **`Zhou M*`**, Wang X\*. Circulating exosomal miR-363-5p inhibits lymph node metastasis by downregulating PDGFB and serves as a potential noninvasive biomarker for breast cancer. _**Molecular Oncology**_, 2021, 15(9):2466-2479.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34058065)
 <span class='__dimensions_badge_embed__' data-pmid='34058065' data-style='large_rectangle' style='display: inline-block;'></span>
+6. **Zhao H#**, Gu S#, **Bao S**, **Yan C**, Zhang Z, **Hou P**, **`Zhou M*`**，**`Sun J*`**. Mechanistically-derived patient-level framework for precision medicine identifies a personalized immune prognostic signature in high-grade serous ovarian cancer. _**Briefings in Bioinformatics**_, 2021, 22(3):bbaa069.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32436954)
+<span class='__dimensions_badge_embed__' data-pmid='32436954' data-style='large_rectangle' style='display: inline-block;'></span>
+5. **Zhang Z**, **Bao S**, **Hou P**, **Yan CC**, **`Zhou M*`**, **`Sun J*`**. Computational principles and practice for decoding immune contexture in the tumor microenvironment. _**Briefings in Bioinformatics**_, 2021, 22(3):bbaa075.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32496512)
+<span class='__dimensions_badge_embed__' data-pmid='32496512' data-style='large_rectangle' style='display: inline-block;'></span>
 4. Xu L#, **Ma Y#**, **Yuan J#**, **Zhang Y#**, Wang H#, Zhang G, Tu C, Lu X, Li J, **Xiong Y**, **Chen F**, Liu X, **Xue Z**, **`Zhou M`**, Li W, Wu N, Bao J, Chen H, Lu F\*, **Su J\***, Qu J\*. COVID-19 quarantine reveals behavioral changes effect on myopia progression. _**Ophthalmology**_, 2021, S0161-6420(21)00257-8. 
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33857574)
 <span class='__dimensions_badge_embed__' data-pmid='33857574' data-style='large_rectangle' style='display: inline-block;'></span>
@@ -240,33 +246,27 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 {: reversed="reversed"}
 
 ### 2020
-9. Chen XJ#, **Zhang ZC#**, Wang XY#, **Zhao HQ**, Li ML, Ma Y, Ji YY, Zhang CJ, Wu KC, Xiang L, Sun LF, **`Zhou M*`**, Jin ZB\*. The Circular RNome of Developmental Retina in Mice. _**Molecular Therapy - Nucleic Acids**_, 2020, 19:339-349. 
+7. Chen XJ#, **Zhang ZC#**, Wang XY#, **Zhao HQ**, Li ML, Ma Y, Ji YY, Zhang CJ, Wu KC, Xiang L, Sun LF, **`Zhou M*`**, Jin ZB\*. The Circular RNome of Developmental Retina in Mice. _**Molecular Therapy - Nucleic Acids**_, 2020, 19:339-349. 
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31877410)
 <span class='__dimensions_badge_embed__' data-pmid='31877410' data-style='large_rectangle' style='display: inline-block;'></span>
-8. **Yang C**, **Zhang Z**, **Bao S**, **Hou P**, **`Zhou M`**, Xu C\*, **`Sun J*`**. Computational Methods and Applications for Identifying Disease-Associated lncRNAs as Potential Biomarkers and Therapeutic Targets. _**Molecular Therapy - Nucleic Acids**_, 2020, 21:156-171.
+6. **Yang C**, **Zhang Z**, **Bao S**, **Hou P**, **`Zhou M`**, Xu C\*, **`Sun J*`**. Computational Methods and Applications for Identifying Disease-Associated lncRNAs as Potential Biomarkers and Therapeutic Targets. _**Molecular Therapy - Nucleic Acids**_, 2020, 21:156-171.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32585624)
 <span class='__dimensions_badge_embed__' data-pmid='32585624' data-style='large_rectangle' style='display: inline-block;'></span>
-7. **Zhang Y#**, **Ma Y#**, **Huang Y**, **Zhang Y**, **Jiang Q**, **`Zhou M`**, **Su J\***. Benchmarking algorithms for pathway activity transformation of single-cell RNA-seq data.  _**Computational and Structural Biotechnology Journal**_, 2020, 18:2953-2961
+5. **Zhang Y#**, **Ma Y#**, **Huang Y**, **Zhang Y**, **Jiang Q**, **`Zhou M`**, **Su J\***. Benchmarking algorithms for pathway activity transformation of single-cell RNA-seq data.  _**Computational and Structural Biotechnology Journal**_, 2020, 18:2953-2961
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33209207)
 <span class='__dimensions_badge_embed__' data-pmid='33209207' data-style='large_rectangle' style='display: inline-block;'></span>
-6. **Zhang Y#**, **Zhang Y#**, Hu J#, **Zhang J**, **Guo F**, **`Zhou M`**, Zhang G\*, Yu F\*, **Su J\***, scTPA: a web tool for single-cell transcriptome analysis of pathway activation signatures. _**Bioinformatics**_, 2020, 36(14):4217-4219.
+4. **Zhang Y#**, **Zhang Y#**, Hu J#, **Zhang J**, **Guo F**, **`Zhou M`**, Zhang G\*, Yu F\*, **Su J\***, scTPA: a web tool for single-cell transcriptome analysis of pathway activation signatures. _**Bioinformatics**_, 2020, 36(14):4217-4219.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32437538)
 <span class='__dimensions_badge_embed__' data-pmid='32437538' data-style='large_rectangle' style='display: inline-block;'></span>
-5. **Yu F#**, **Li K#**, **Li S#**, **Liu J**, **Zhang Y**, **`Zhou M`**, **Zhao H**, Chen H, Wu N, Liu Z\*, **Su J\***. CFEA: a cell-free epigenome atlas in human diseases. _**Nucleic acids research**_, 2020, 48(D1): D40-D44.
+3. **Yu F#**, **Li K#**, **Li S#**, **Liu J**, **Zhang Y**, **`Zhou M`**, **Zhao H**, Chen H, Wu N, Liu Z\*, **Su J\***. CFEA: a cell-free epigenome atlas in human diseases. _**Nucleic acids research**_, 2020, 48(D1): D40-D44.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31428785)
 <span class='__dimensions_badge_embed__' data-pmid='31428785' data-style='large_rectangle' style='display: inline-block;'></span>
-4. **`Sun J#`**, **Zhang Z#**, **Bao S#**, **Yan C**, **Hou P**, Wu N, **Su J**, Xu L\*, **`Zhou M*`**. Identification of tumor immune infiltration-associated lncRNAs for improving prognosis and immunotherapy response of patients with non-small cell lung cancer. _**Journal for ImmunoTherapy of Cancer**_, 2020, 8(1):e000110.
+2. **`Sun J#`**, **Zhang Z#**, **Bao S#**, **Yan C**, **Hou P**, Wu N, **Su J**, Xu L\*, **`Zhou M*`**. Identification of tumor immune infiltration-associated lncRNAs for improving prognosis and immunotherapy response of patients with non-small cell lung cancer. _**Journal for ImmunoTherapy of Cancer**_, 2020, 8(1):e000110.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32041817)
 <span class='__dimensions_badge_embed__' data-pmid='32041817' data-style='large_rectangle' style='display: inline-block;'></span>
-3. **`Zhou M#`**，**Zhang Z#**, **Bao S#**, **Hou P**, **Yan C**, **Su J\***, **`Sun J*`**. Computational recognition of lncRNA signature of tumor-infiltrating B lymphocytes with potential implications in prognosis and immunotherapy of bladder cancer. _**Briefings in Bioinformatics**_, 2020, 22(3):bbaa047.
+1. **`Zhou M#`**，**Zhang Z#**, **Bao S#**, **Hou P**, **Yan C**, **Su J\***, **`Sun J*`**. Computational recognition of lncRNA signature of tumor-infiltrating B lymphocytes with potential implications in prognosis and immunotherapy of bladder cancer. _**Briefings in Bioinformatics**_, 2020, 22(3):bbaa047.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32382761)
 <span class='__dimensions_badge_embed__' data-pmid='32382761' data-style='large_rectangle' style='display: inline-block;'></span>
-2. **Zhao H#**, Gu S#, **Bao S**, **Yan C**, Zhang Z, **Hou P**, **`Zhou M*`**，**`Sun J*`**. Mechanistically-derived patient-level framework for precision medicine identifies a personalized immune prognostic signature in high-grade serous ovarian cancer. _**Briefings in Bioinformatics**_, 2020, 22(3):bbaa069.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32436954)
-<span class='__dimensions_badge_embed__' data-pmid='32436954' data-style='large_rectangle' style='display: inline-block;'></span>
-1. **Zhang Z**, **Bao S**, **Hou P**, **Yan CC**, **`Zhou M*`**, **`Sun J*`**. Computational principles and practice for decoding immune contexture in the tumor microenvironment. _**Briefings in Bioinformatics**_, 2020, 22(3):bbaa075.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32496512)
-<span class='__dimensions_badge_embed__' data-pmid='32496512' data-style='large_rectangle' style='display: inline-block;'></span>
 {: reversed="reversed"}
 
 ### 2019
