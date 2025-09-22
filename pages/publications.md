@@ -225,7 +225,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 8. Wang X#, Qian T#, **Bao S#**, **Zhao H**, Chen H, Xing Z, Li Y, Zhang M, Meng X, Wang C, Wang J, Gao H, Liu J\*, **`Zhou M*`**, Wang X\*. Circulating exosomal miR-363-5p inhibits lymph node metastasis by downregulating PDGFB and serves as a potential noninvasive biomarker for breast cancer. _**Molecular Oncology**_, 2021, 15(9):2466-2479.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34058065)
 <span class='__dimensions_badge_embed__' data-pmid='34058065' data-style='large_rectangle' style='display: inline-block;'></span>
-7. **`Zhou M#`**，**Zhang Z#**, **Bao S#**, **Hou P**, **Yan C**, **Su J\***, **`Sun J*`**. Computational recognition of lncRNA signature of tumor-infiltrating B lymphocytes with potential implications in prognosis and immunotherapy of bladder cancer. _**Briefings in Bioinformatics**_, 2020, 22(3):bbaa047.
+7. **`Zhou M#`**，**Zhang Z#**, **Bao S#**, **Hou P**, **Yan C**, **Su J\***, **`Sun J*`**. Computational recognition of lncRNA signature of tumor-infiltrating B lymphocytes with potential implications in prognosis and immunotherapy of bladder cancer. _**Briefings in Bioinformatics**_, 2021, 22(3):bbaa047.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32382761)
 <span class='__dimensions_badge_embed__' data-pmid='32382761' data-style='large_rectangle' style='display: inline-block;'></span>
 6. **Zhao H#**, Gu S#, **Bao S**, **Yan C**, Zhang Z, **Hou P**, **`Zhou M*`**，**`Sun J*`**. Mechanistically-derived patient-level framework for precision medicine identifies a personalized immune prognostic signature in high-grade serous ovarian cancer. _**Briefings in Bioinformatics**_, 2021, 22(3):bbaa069.
