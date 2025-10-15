@@ -8,6 +8,7 @@ permalink: /news
 
 ### 2025
 #### September
+- Congratulations to Siqi and Zijian on the publication of the paper "AttResAMD: An Attention-Driven Deep Learning Framework for Expert-Level Automated Classification of Age-Related Macular Degeneration from Fundus Photography" in _**Interdisciplinary Sciences: Computational Life Sciences**_.
 - Congratulations to Dongxue on the publication of the paper "Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning" in _**British Journal of Pharmacology**_.
 - Congratulations to Yang on the publication of the paper "A multidimensional deep ensemble learning model predicts pathological response and outcomes in esophageal squamous cell carcinoma treated with neoadjuvant chemoradiotherapy from pretreatment CT imaging: A multicenter study" in _**Radiotherapy and Oncology**_.
 - Congratulations to Yibo on the publication of the paper "Deep learning-based histomorphological subtyping and risk stratification of small cell lung cancer from hematoxylin and eosin-stained whole slide images" in _**Genome Medicine**_.
