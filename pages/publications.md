@@ -15,15 +15,18 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
-21. **Yan D#**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2025.
+22. **Yan D**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2025.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40948045/)
 <span class='__dimensions_badge_embed__' data-pmid='40948045' data-style='large_rectangle' style='display: inline-block;'></span>
-20. Liu Y#, **Su Y#**, Peng J#, Zhang W#, Zhao F, Li Y, Song X, Ma Z, Zhang W, Ji J, Chen Y, Men Y, Ye F, Men K, Qin J, Liu W, Wang X, Bi N, Xue L, Yu W\*, Wang Q\*, **`Zhou M*`**, Hui Z\*. A multidimensional deep ensemble learning model predicts pathological response and outcomes in esophageal squamous cell carcinoma treated with neoadjuvant chemoradiotherapy from pretreatment CT imaging: A multicenter study. _**Radiotherapy and Oncology**_, 2025, 212, 111133.
+21. Liu Y#, **Su Y#**, Peng J#, Zhang W#, Zhao F, Li Y, Song X, Ma Z, Zhang W, Ji J, Chen Y, Men Y, Ye F, Men K, Qin J, Liu W, Wang X, Bi N, Xue L, Yu W\*, Wang Q\*, **`Zhou M*`**, Hui Z\*. A multidimensional deep ensemble learning model predicts pathological response and outcomes in esophageal squamous cell carcinoma treated with neoadjuvant chemoradiotherapy from pretreatment CT imaging: A multicenter study. _**Radiotherapy and Oncology**_, 2025, 212, 111133.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40939680/)
 <span class='__dimensions_badge_embed__' data-pmid='40939680' data-style='large_rectangle' style='display: inline-block;'></span>
-19. **Zhang Y#**, Liu S#, Chen J#, Chen R, **Yang Z**, **Sheng R**, **Li X**, **Wang T**, Liu H, Yang F, Ying J\*, Yang L\*, Sun J\*, **`Zhou M*`**. Deep learning-based histomorphological subtyping and risk stratification of small cell lung cancer from hematoxylin and eosin-stained whole slide images. _**Genome Medicine**_, 2025, 17(1):98.
+20. **Zhang Y#**, Liu S#, Chen J#, Chen R, **Yang Z**, **Sheng R**, **Li X**, **Wang T**, Liu H, Yang F, Ying J\*, Yang L\*, Sun J\*, **`Zhou M*`**. Deep learning-based histomorphological subtyping and risk stratification of small cell lung cancer from hematoxylin and eosin-stained whole slide images. _**Genome Medicine**_, 2025, 17(1):98.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40898302/)
 <span class='__dimensions_badge_embed__' data-pmid='40898302' data-style='large_rectangle' style='display: inline-block;'></span>
+19. **Bao S#**, **Yang Z#**, **Zhang Z**, Qu J\*, **`Sun J*`**. AttResAMD: An Attention-Driven Deep Learning Framework for Expert-Level Automated Classification of Age-Related Macular Degeneration from Fundus Photography. _**Interdisciplinary Sciences: Computational Life Sciences**_, 2025.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40885885/)
+<span class='__dimensions_badge_embed__' data-pmid='40885885' data-style='large_rectangle' style='display: inline-block;'></span>
 18. **Yan C#**, Yi Q#, Ge L, Huang Y, Yang C, Lin B\*, Jiang D\*, **`Zhou M*`**. Metabolomics analysis uncovers metabolic changes and remodeling of anti-VEGF therapy on macular edema. _**Eye and Vision**_, 2025, 12(1):28.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40653498/)
 <span class='__dimensions_badge_embed__' data-pmid='40653498' data-style='large_rectangle' style='display: inline-block;'></span>
@@ -33,7 +36,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 16. **Li X#**, Yang F#, **Zhang Y**, **Yang Z**, Chen R, **`Zhou M*`**, Yang L\*. DeepTFtyper: an interpretable morphology-aware graph neural network for translating histopathology images into molecular subtypes in small cell lung cancer. _**Briefings in Bioinformatics**_, 2025, 26(3):bbaf284.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40539233/)
 <span class='__dimensions_badge_embed__' data-pmid='40539233' data-style='large_rectangle' style='display: inline-block;'></span>
-15. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2025.
+15. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2025, S2090-1232(25)00427-8.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40513660/)
 <span class='__dimensions_badge_embed__' data-pmid='40513660' data-style='large_rectangle' style='display: inline-block;'></span>
 14. **Shi X#**, Zhao Y#, **Li K#**, Li Q, Cui Y, Sui Y, Zhao L, Zhou H, Yang Y, Li J, **`Zhou M*`**, Lu Z\*. Plasma proteomic signature for preoperative prediction of microvascular invasion in HCC. _**JHEP Reports**_, 2025, 101481.
