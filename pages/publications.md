@@ -15,6 +15,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+23. **Zhai M#**, **Zhang Z#**, Dong J#, Li Z, Cao Y, Chen R, **`Zhou M*`**, Yang L\*. Spatial proteomic profiling reveals conserved prognostic immune microenvironment features across molecular subtypes in small cell lung cancer. _**Pharmacological Research**_, 2025.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/41290052/)
+<span class='__dimensions_badge_embed__' data-pmid='41290052' data-style='large_rectangle' style='display: inline-block;'></span>
 22. **Yan D**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2025.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40948045/)
 <span class='__dimensions_badge_embed__' data-pmid='40948045' data-style='large_rectangle' style='display: inline-block;'></span>
