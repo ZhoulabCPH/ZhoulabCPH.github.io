@@ -7,6 +7,9 @@ permalink: /news
 # News
 
 ### 2025
+#### November
+- Congratulations to Modi and Zicheng on the publication of the paper "Spatial proteomic profiling reveals conserved prognostic immune microenvironment features across molecular subtypes in small cell lung cancer" in _**Pharmacological Research**_.
+
 #### September
 - Congratulations to Siqi and Zijian on the publication of the paper "AttResAMD: An Attention-Driven Deep Learning Framework for Expert-Level Automated Classification of Age-Related Macular Degeneration from Fundus Photography" in _**Interdisciplinary Sciences: Computational Life Sciences**_.
 - Congratulations to Dongxue on the publication of the paper "Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning" in _**British Journal of Pharmacology**_.
