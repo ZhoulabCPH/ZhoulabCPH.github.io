@@ -14,13 +14,15 @@ js:
 Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=O5RxsC8AAAAJ&view_op=list_works&sortby=pubdate) for more details.<br>
 \# Co-first authors; \* Co-corresponding authors
 
-### 2025
-23. **Zhai M#**, **Zhang Z#**, Dong J#, Li Z, Cao Y, Chen R, **`Zhou M*`**, Yang L\*. Spatial proteomic profiling reveals conserved prognostic immune microenvironment features across molecular subtypes in small cell lung cancer. _**Pharmacological Research**_, 2025, 222:108048.
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/41290052/)
-<span class='__dimensions_badge_embed__' data-pmid='41290052' data-style='large_rectangle' style='display: inline-block;'></span>
-22. **Yan D**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2026, 183(2):364-378.
+### 2026
+1. **Yan D**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2026, 183(2):364-378.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40948045/)
 <span class='__dimensions_badge_embed__' data-pmid='40948045' data-style='large_rectangle' style='display: inline-block;'></span>
+
+### 2025
+22. **Zhai M#**, **Zhang Z#**, Dong J#, Li Z, Cao Y, Chen R, **`Zhou M*`**, Yang L\*. Spatial proteomic profiling reveals conserved prognostic immune microenvironment features across molecular subtypes in small cell lung cancer. _**Pharmacological Research**_, 2025, 222:108048.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/41290052/)
+<span class='__dimensions_badge_embed__' data-pmid='41290052' data-style='large_rectangle' style='display: inline-block;'></span>
 21. Liu Y#, **Su Y#**, Peng J#, Zhang W#, Zhao F, Li Y, Song X, Ma Z, Zhang W, Ji J, Chen Y, Men Y, Ye F, Men K, Qin J, Liu W, Wang X, Bi N, Xue L, Yu W\*, Wang Q\*, **`Zhou M*`**, Hui Z\*. A multidimensional deep ensemble learning model predicts pathological response and outcomes in esophageal squamous cell carcinoma treated with neoadjuvant chemoradiotherapy from pretreatment CT imaging: A multicenter study. _**Radiotherapy and Oncology**_, 2025, 212:111133.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40939680/)
 <span class='__dimensions_badge_embed__' data-pmid='40939680' data-style='large_rectangle' style='display: inline-block;'></span>
