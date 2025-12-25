@@ -7,6 +7,9 @@ permalink: /news
 # News
 
 ### 2025
+#### December
+- Congratulations to Dongxue on the publication of the paper "Plasma Proteome-Driven Liquid Biopsy for Individualized Monitoring and Risk Stratification of Immune-Related Adverse Events in Checkpoint Immunotherapy" in _**Molecular & cellular proteomics : MCP**_.
+
 #### November
 - Congratulations to Modi and Zicheng on the publication of the paper "Spatial proteomic profiling reveals conserved prognostic immune microenvironment features across molecular subtypes in small cell lung cancer" in _**Pharmacological Research**_.
 
