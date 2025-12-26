@@ -20,7 +20,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 <span class='__dimensions_badge_embed__' data-pmid='40948045' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2025
-23. **Yan D#**, Xu J#, Wang D#, Xing Q#, He X, Wang D, Zhu B, Yu K\*, **`Zhou M*`**, Wang C\*. Plasma Proteome-Driven Liquid Biopsy for Individualized Monitoring and Risk Stratification of Immune-Related Adverse Events in Checkpoint Immunotherapy. _**Molecular *&* cellular proteomics : MCP**_, 2025, 101488.
+23. **Yan D#**, Xu J#, Wang D#, Xing Q#, He X, Wang D, Zhu B, Yu K\*, **`Zhou M*`**, Wang C\*. Plasma Proteome-Driven Liquid Biopsy for Individualized Monitoring and Risk Stratification of Immune-Related Adverse Events in Checkpoint Immunotherapy. _**Molecular**_ **&** _**cellular proteomics : MCP**_, 2025, 101488.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/41391830/)
 <span class='__dimensions_badge_embed__' data-pmid='41391830' data-style='large_rectangle' style='display: inline-block;'></span>
 22. **Zhai M#**, **Zhang Z#**, Dong J#, Li Z, Cao Y, Chen R, **`Zhou M*`**, Yang L\*. Spatial proteomic profiling reveals conserved prognostic immune microenvironment features across molecular subtypes in small cell lung cancer. _**Pharmacological Research**_, 2025, 222:108048.
