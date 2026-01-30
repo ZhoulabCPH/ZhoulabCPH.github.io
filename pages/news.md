@@ -5,6 +5,9 @@ permalink: /news
 ---
 
 # News
+### 2026
+#### January
+- Congratulations to Zijian and Liujin on the publication of the paper "HRD-Informed Digital Histology Model for Predicting Platinum Chemo-Response and Prognosis in High-Grade Serous Ovarian Cancer" on _**Interdisciplinary Sciences: Computational Life Sciences**_. 
 
 ### 2025
 #### December
