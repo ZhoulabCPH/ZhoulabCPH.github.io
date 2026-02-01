@@ -6,8 +6,10 @@ permalink: /news
 
 # News
 ### 2026
+#### February
+- Congratulations to Jing and Zicheng on the publication of the paper "Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities" on _**Eye and Vision**_.
+
 #### January
-- Congratulations to Jing and Zicheng on the publication of the paper "Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities" on _**Eye and Vision**_. 
 - Congratulations to Zijian and Liujin on the publication of the paper "HRD-Informed Digital Histology Model for Predicting Platinum Chemo-Response and Prognosis in High-Grade Serous Ovarian Cancer" on _**Interdisciplinary Sciences: Computational Life Sciences**_. 
 
 ### 2025
