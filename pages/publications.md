@@ -22,6 +22,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 1. **Yan D**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2026, 183(2):364-378.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40948045/)
 <span class='__dimensions_badge_embed__' data-pmid='40948045' data-style='large_rectangle' style='display: inline-block;'></span>
+{: reversed="reversed"}
 
 ### 2025
 23. **Yan D#**, Xu J#, Wang D#, Xing Q#, He X, Wang D, Zhu B, Yu K\*, **`Zhou M*`**, Wang C\*. Plasma Proteome-Driven Liquid Biopsy for Individualized Monitoring and Risk Stratification of Immune-Related Adverse Events in Checkpoint Immunotherapy. _**Molecular**_ **&** _**cellular proteomics : MCP**_, 2025, 101488.
