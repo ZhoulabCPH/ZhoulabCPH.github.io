@@ -15,9 +15,10 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
+3. Li K#, **Tang J#**, **Zhang Z#**, Li X, Zheng Y, Jiang D\*, **`Sun J*`**. Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities. _**Eye and Vision**_, 2026, 13(1): 4.
+[[Abstract]](https://link.springer.com/article/10.1186/s40662-026-00473-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260201&utm_content=10.1186%2Fs40662-026-00473-5)
 2. **Yang Z#**, **Zhang L#**, Li L#, Song Y, **`Sun J*`**, Meng F\*. HRD-Informed Digital Histology Model for Predicting Platinum Chemo-Response and Prognosis in High-Grade Serous Ovarian Cancer. _**Interdisciplinary Sciences: Computational Life Sciences**_, 2026.
 [[Abstract]](https://link.springer.com/article/10.1007/s12539-025-00809-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260129&utm_content=10.1007/s12539-025-00809-0#article-info)
-
 1. **Yan D**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2026, 183(2):364-378.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40948045/)
 <span class='__dimensions_badge_embed__' data-pmid='40948045' data-style='large_rectangle' style='display: inline-block;'></span>
