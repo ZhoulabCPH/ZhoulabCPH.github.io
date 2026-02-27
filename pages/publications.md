@@ -18,7 +18,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 3. Li K#, **Tang J#**, **Zhang Z#**, Li X, Zheng Y, Jiang D\*, **`Sun J*`**. Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities. _**Eye and Vision**_, 2026, 13(1): 4.
 [[Abstract]](https://link.springer.com/article/10.1186/s40662-026-00473-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260201&utm_content=10.1186%2Fs40662-026-00473-5)
 <span class='__dimensions_badge_embed__' data-pmid='41620804' data-style='large_rectangle' style='display: inline-block;'></span>
-2. **Yang Z#**, **Zhang L#**, Li L#, Song Y, **`Sun J*`**, Meng F\*. <span style="color:Gray;">HRD-Informed Digital Histology Model for Predicting Platinum Chemo-Response and Prognosis in High-Grade Serous Ovarian Cancer.</span> _**Interdisciplinary Sciences: Computational Life Sciences**_, 2026.
+2. **Yang Z#**, **Zhang L#**, Li L#, Song Y, **`Sun J*`**, Meng F\*. <span style="color:Gray;">HRD-Informed Digital Histology Model for Predicting Platinum Chemo-Response and Prognosis in High-Grade Serous Ovarian Cancer. _**Interdisciplinary Sciences: Computational Life Sciences**_, 2026.</span> 
 [[Abstract]](https://link.springer.com/article/10.1007/s12539-025-00809-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260129&utm_content=10.1007/s12539-025-00809-0)
 <span class='__dimensions_badge_embed__' data-pmid='41612071' data-style='large_rectangle' style='display: inline-block;'></span>
 1. **Yan D**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2026, 183(2):364-378.
@@ -39,7 +39,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 20. **Zhang Y#**, Liu S#, Chen J#, Chen R, **Yang Z**, **Sheng R**, **Li X**, **Wang T**, Liu H, Yang F, Ying J\*, Yang L\*, **`Sun J*`**, **`Zhou M*`**. Deep learning-based histomorphological subtyping and risk stratification of small cell lung cancer from hematoxylin and eosin-stained whole slide images. _**Genome Medicine**_, 2025, 17(1):98.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40898302/)
 <span class='__dimensions_badge_embed__' data-pmid='40898302' data-style='large_rectangle' style='display: inline-block;'></span>
-19. **Bao S#**, **Yang Z#**, **Zhang Z**, Qu J\*, **`Sun J*`**. AttResAMD: An Attention-Driven Deep Learning Framework for Expert-Level Automated Classification of Age-Related Macular Degeneration from Fundus Photography. _**Interdisciplinary Sciences: Computational Life Sciences**_, 2025.
+19. **Bao S#**, **Yang Z#**, **Zhang Z**, Qu J\*, **`Sun J*`**.  <span style="color:Gray;">AttResAMD: An Attention-Driven Deep Learning Framework for Expert-Level Automated Classification of Age-Related Macular Degeneration from Fundus Photography. _**Interdisciplinary Sciences: Computational Life Sciences**_, 2025.</span>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40885885/)
 <span class='__dimensions_badge_embed__' data-pmid='40885885' data-style='large_rectangle' style='display: inline-block;'></span>
 18. **Yan C#**, Yi Q#, Ge L, Huang Y, Yang C, Lin B\*, Jiang D\*, **`Zhou M*`**. Metabolomics analysis uncovers metabolic changes and remodeling of anti-VEGF therapy on macular edema. _**Eye and Vision**_, 2025, 12(1):28.
@@ -54,8 +54,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 15. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2026, 81:797–808.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40513660/)
 <span class='__dimensions_badge_embed__' data-pmid='40513660' data-style='large_rectangle' style='display: inline-block;'></span>
-14. **Shi X#**, Zhao Y#, **Li K#**, Li Q, Cui Y, Sui Y, Zhao L, Zhou H, Yang Y, Li J, **`Zhou M*`**, Lu Z\*. Plasma proteomic signature for preoperative prediction of microvascular invasion in HCC. _**JHEP Reports**_, 2025, 101481.
+14. **Shi X#**, Zhao Y#, **Li K#**, Li Q, Cui Y, Sui Y, Zhao L, Zhou H, Yang Y, Li J, **`Zhou M*`**, Lu Z\*. Plasma proteomic signature for preoperative prediction of microvascular invasion in HCC. _**JHEP Reports**_, 2025, 7(9):101481.
 [[Abstract]](https://www.sciencedirect.com/science/article/pii/S2589555925001594#abs0020)
+<span class='__dimensions_badge_embed__' data-pmid='40823177' data-style='large_rectangle' style='display: inline-block;'></span>
 13. **Yang Z#**, Guo C#, Li J#, Li Y#, Zhong L#, Pu P, Shang T, Cong L, Zhou Y, Qiao G, Jia Z, Xu H, Cao H, Huang Y, Liu T, Liang J, Wu J, Ma D, Liu Y, Zhou R, Wang X, Ying J\*, **`Zhou M*`**, Liu J\*. An Explainable Multimodal Artificial Intelligence Model Integrating Histopathological Microenvironment and EHR Phenotypes for Germline Genetic Testing in Breast Cancer. _**Advanced Science**_, 2025, 12(31):e02833.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40439693/)
 <span class='__dimensions_badge_embed__' data-pmid='40439693' data-style='large_rectangle' style='display: inline-block;'></span>
@@ -116,7 +117,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 10. Sun L#, **Cen Y#**, Liu X#, Wei J, Ke X, Wang Y, Liao Q, Chang M, **`Zhou M*`**, Wu W\*. Systemic whole transcriptome analysis identified underlying molecular characteristics and regulatory networks implicated in the retina following optic nerve injury. _**Experimental Eye Research**_, 2024, 244:109929.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38750783)
 <span class='__dimensions_badge_embed__' data-pmid='38750783' data-style='large_rectangle' style='display: inline-block;'></span>
-9. Chi R, Yang X, Yang Z, Xia H, Li H, Pan L, Hao J, **Yan D**, Si X, Shi C\*, **`Sun J*`**, Li W\*. Tumor microenvironment-responsive hyaluronic acid-oxaliplatin nanoparticles enhanced tumor cell elimination. _**Polymers for Advanced Technologies**_, 2024, 35(4):e6405. doi:10.1002/pat.6405.
+9. Chi R, Yang X, Yang Z, Xia H, Li H, Pan L, Hao J, **Yan D**, Si X, Shi C\*, **`Sun J*`**, Li W\*. Tumor microenvironment-responsive hyaluronic acid-oxaliplatin nanoparticles enhanced tumor cell elimination. _**Polymers for Advanced Technologies**_, 2024, 35(4):e6405.
+[[Abstract]](https://onlinelibrary.wiley.com/doi/10.1002/pat.6405?af=R)
 8. **Zhai M#**, Zhang Y#, **Yan D**, Wang Y, Li W\*, **`Sun J*`**. Genetic Insights into the Association and Causality Between Blood Metabolites and Alzheimer's Disease. _**Journal of Alzheimer’s Disease**_, 2024, 98(3):885-896.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38489174)
 <span class='__dimensions_badge_embed__' data-pmid='38489174' data-style='large_rectangle' style='display: inline-block;'></span>
@@ -129,7 +131,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 5. **Zhang Y#**, **Yang Z#**, Chen R#, Zhu Y#, Liu L, Dong J, **Zhang Z**, Sun X, Ying J, Lin D\*, Yang L\* & **`Zhou M*`**. Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer. _**npj Digital Medicine**_, 2024, 7(1):15.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38238410)
 <span class='__dimensions_badge_embed__' data-pmid='38238410' data-style='large_rectangle' style='display: inline-block;'></span>
-4. **Shi R#**, **Wu Y#**, Chen H#, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. The causal effect of oxidative stress on the risk of glaucoma. _**Heliyon**_, 2024, 10(3):E24852.
+4. **Shi R#**, **Wu Y#**, Chen H#, **Zhang Z**, **Bao S**, Qu J\*, **`Zhou M*`**. The causal effect of oxidative stress on the risk of glaucoma. _**Heliyon**_, 2024, 10(3):e24852.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38317903)
 <span class='__dimensions_badge_embed__' data-pmid='38317903' data-style='large_rectangle' style='display: inline-block;'></span>
 3. **Yang Z#**, **Zhang Y#**, **Zhuo L**, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Prediction of prognosis and treatment response in ovarian cancer patients from histopathology images using graph deep learning: a multicenter retrospective study. _**European Journal of Cancer**_, 2024, 199:113532.
@@ -144,7 +146,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 {: reversed="reversed"}
 
 ### 2023
-13. Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2023, S1933-0219(23)00091-0.
+13. Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2024, 17(3):491-507.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38007004)
 <span class='__dimensions_badge_embed__' data-pmid='38007004' data-style='large_rectangle' style='display: inline-block;'></span>
 12. **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, 167:107616.
@@ -252,7 +254,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 5. **Zhang Z**, **Bao S**, **Hou P**, **Yan CC**, **`Zhou M*`**, **`Sun J*`**. Computational principles and practice for decoding immune contexture in the tumor microenvironment. _**Briefings in Bioinformatics**_, 2021, 22(3):bbaa075.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32496512)
 <span class='__dimensions_badge_embed__' data-pmid='32496512' data-style='large_rectangle' style='display: inline-block;'></span>
-4. Xu L#, **Ma Y#**, **Yuan J#**, **Zhang Y#**, Wang H#, Zhang G, Tu C, Lu X, Li J, **Xiong Y**, **Chen F**, Liu X, **Xue Z**, **`Zhou M`**, Li W, Wu N, Bao J, Chen H, Lu F\*, **Su J\***, Qu J\*. COVID-19 quarantine reveals behavioral changes effect on myopia progression. _**Ophthalmology**_, 2021, S0161-6420(21)00257-8. 
+4. Xu L#, **Ma Y#**, **Yuan J#**, **Zhang Y#**, Wang H#, Zhang G, Tu C, Lu X, Li J, **Xiong Y**, **Chen F**, Liu X, **Xue Z**, **`Zhou M`**, Li W, Wu N, Bao J, Chen H, Lu F\*, **Su J\***, Qu J\*. COVID-19 quarantine reveals behavioral changes effect on myopia progression. _**Ophthalmology**_, 2021, 128(11):1652-1654. 
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33857574)
 <span class='__dimensions_badge_embed__' data-pmid='33857574' data-style='large_rectangle' style='display: inline-block;'></span>
 3. Liu J#, **Zhao H#**, **Huang Y#**, Xu S#, Zhou Y, Zhang W, Li J, Ming Y, **Wang X**, Zhao S, **Li K**, Dong X, **Ma Y**, Qian T, Chen X, Xing Z, Zhang Y, Chen H, Liu Z, Pang D, **`Zhou M`**, Wu Z, Wang X, Wang X\*, Wu N\* and **Su J\***. Genome-wide cell-free DNA methylation analyses improve accuracy of non-invasive diagnostic imaging for early-stage breast cancer. _**Molecular Cancer**_, 2021, 20(1):36.
