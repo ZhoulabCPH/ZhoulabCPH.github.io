@@ -49,7 +49,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 16. **Li X#**, Yang F#, **Zhang Y**, **Yang Z**, Chen R, **`Zhou M*`**, Yang L\*. DeepTFtyper: an interpretable morphology-aware graph neural network for translating histopathology images into molecular subtypes in small cell lung cancer. _**Briefings in Bioinformatics**_, 2025, 26(3):bbaf284.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40539233/)
 <span class='__dimensions_badge_embed__' data-pmid='40539233' data-style='large_rectangle' style='display: inline-block;'></span>
-15. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2025, S2090-1232(25)00427-8.
+15. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2026, 81:797–808.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40513660/)
 <span class='__dimensions_badge_embed__' data-pmid='40513660' data-style='large_rectangle' style='display: inline-block;'></span>
 14. **Shi X#**, Zhao Y#, **Li K#**, Li Q, Cui Y, Sui Y, Zhao L, Zhou H, Yang Y, Li J, **`Zhou M*`**, Lu Z\*. Plasma proteomic signature for preoperative prediction of microvascular invasion in HCC. _**JHEP Reports**_, 2025, 101481.
