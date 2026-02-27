@@ -18,7 +18,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 3. Li K#, **Tang J#**, **Zhang Z#**, Li X, Zheng Y, Jiang D\*, **`Sun J*`**. Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities. _**Eye and Vision**_, 2026, 13(1): 4.
 [[Abstract]](https://link.springer.com/article/10.1186/s40662-026-00473-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260201&utm_content=10.1186%2Fs40662-026-00473-5)
 <span class='__dimensions_badge_embed__' data-pmid='41620804' data-style='large_rectangle' style='display: inline-block;'></span>
-2. **Yang Z#**, **Zhang L#**, Li L#, Song Y, **`Sun J*`**, Meng F\*. <span style="color:red;">HRD-Informed Digital Histology Model for Predicting Platinum Chemo-Response and Prognosis in High-Grade Serous Ovarian Cancer.</span> _**Interdisciplinary Sciences: Computational Life Sciences**_, 2026.
+2. **Yang Z#**, **Zhang L#**, Li L#, Song Y, **`Sun J*`**, Meng F\*. <span style="color:Gray;">HRD-Informed Digital Histology Model for Predicting Platinum Chemo-Response and Prognosis in High-Grade Serous Ovarian Cancer.</span> _**Interdisciplinary Sciences: Computational Life Sciences**_, 2026.
 [[Abstract]](https://link.springer.com/article/10.1007/s12539-025-00809-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260129&utm_content=10.1007/s12539-025-00809-0)
 <span class='__dimensions_badge_embed__' data-pmid='41612071' data-style='large_rectangle' style='display: inline-block;'></span>
 1. **Yan D**, **Lyu B**, **Yu J**, **Bao S**, **Zhang Z**, **`Zhou M*`**, **`Sun J*`**. Decoding fatal toxic effects in checkpoint inhibitor therapy using real-world pharmacovigilance data and machine learning. _**British Journal of Pharmacology**_, 2026, 183(2):364-378.
@@ -27,7 +27,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 {: reversed="reversed"}
 
 ### 2025
-23. **Yan D#**, Xu J#, Wang D#, Xing Q#, He X, Wang D, Zhu B, Yu K\*, **`Zhou M*`**, Wang C\*. Plasma Proteome-Driven Liquid Biopsy for Individualized Monitoring and Risk Stratification of Immune-Related Adverse Events in Checkpoint Immunotherapy. _**Molecular**_ **&** _**cellular proteomics : MCP**_, 2025, 101488.
+23. **Yan D#**, Xu J#, Wang D#, Xing Q#, He X, Wang D, Zhu B, Yu K\*, **`Zhou M*`**, Wang C\*. Plasma Proteome-Driven Liquid Biopsy for Individualized Monitoring and Risk Stratification of Immune-Related Adverse Events in Checkpoint Immunotherapy. _**Molecular**_ **&** _**cellular proteomics : MCP**_, 2026, 25(1):101488.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/41391830/)
 <span class='__dimensions_badge_embed__' data-pmid='41391830' data-style='large_rectangle' style='display: inline-block;'></span>
 22. **Zhai M#**, **Zhang Z#**, Dong J#, Li Z, Cao Y, Chen R, **`Zhou M*`**, Yang L\*. Spatial proteomic profiling reveals conserved prognostic immune microenvironment features across molecular subtypes in small cell lung cancer. _**Pharmacological Research**_, 2025, 222:108048.
