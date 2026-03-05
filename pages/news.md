@@ -6,6 +6,9 @@ permalink: /news
 
 # News
 ### 2026
+#### March
+- Congratulations to Congcong on the publication of the paper "Retinal Capillary Density Reduction Contributes to Dysthyroid Optic Neuropathy via an L-Arginine-NO Pathway: A Metabonomics and Clinical Trial Study" on _**MedComm**_.
+  
 #### February
 - Congratulations to Jing and Zicheng on the publication of the paper "Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities" on _**Eye and Vision**_.
 
