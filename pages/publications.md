@@ -15,6 +15,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
+6. Tu Y#, **Yan C#**, Chen L#, Liu W, Hu X, Gao M, Rao W, Zhang J, Zhu J, Wu H, Zhang K\*, **`Zhou M*`**, Wu W\*. Retinal Capillary Density Reduction Contributes to Dysthyroid Optic Neuropathy via an L-Arginine-NO Pathway: A Metabonomics and Clinical Trial Study. _**MedComm**_, 2026, 7(3): e70652.
+[[Abstract]](https://onlinelibrary.wiley.com/doi/10.1002/mco2.70652)
 5. Li K#, **Tang J#**, **Zhang Z#**, Li X, Zheng Y, Jiang D\*, **`Sun J*`**. Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities. _**Eye and Vision**_, 2026, 13(1): 4.
 [[Abstract]](https://link.springer.com/article/10.1186/s40662-026-00473-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260201&utm_content=10.1186%2Fs40662-026-00473-5)
 <span class='__dimensions_badge_embed__' data-pmid='41620804' data-style='large_rectangle' style='display: inline-block;'></span>
