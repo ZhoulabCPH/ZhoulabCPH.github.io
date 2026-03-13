@@ -7,6 +7,7 @@ permalink: /news
 # News
 ### 2026
 #### March
+- Congratulations to Zicheng and Siqi on the publication of the paper "Proteomic characterization of small cell lung cancer uncovers innate-adaptive immune dynamics and immunotherapeutic vulnerabilities" on _**Genes & Diseases**_.
 - Congratulations to Congcong on the publication of the paper "Retinal Capillary Density Reduction Contributes to Dysthyroid Optic Neuropathy via an L-Arginine-NO Pathway: A Metabonomics and Clinical Trial Study" on _**MedComm**_.
   
 #### February
