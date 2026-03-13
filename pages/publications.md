@@ -15,6 +15,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
+7. **Zhang Z#**, **Bao S#**, Chen R#, Liu L, Yang F, Dong J, Sun X, Yang L\*, **`Zhou M*`**, Ying J\*. <span style="color:Gray;">Proteomic characterization of small cell lung cancer uncovers innate-adaptive immune dynamics and immunotherapeutic vulnerabilities. _**Genes & Diseases**_, 2026, 102143.</span>
+[[Abstract]](https://www.sciencedirect.com/science/article/pii/S2352304226001157)
 6. Tu Y#, **Yan C#**, Chen L#, Liu W, Hu X, Gao M, Rao W, Zhang J, Zhu J, Wu H, Zhang K\*, **`Zhou M*`**, Wu W\*. Retinal Capillary Density Reduction Contributes to Dysthyroid Optic Neuropathy via an L-Arginine-NO Pathway: A Metabonomics and Clinical Trial Study. _**MedComm**_, 2026, 7(3): e70652.
 [[Abstract]](https://onlinelibrary.wiley.com/doi/10.1002/mco2.70652)
 5. Li K#, **Tang J#**, **Zhang Z#**, Li X, Zheng Y, Jiang D\*, **`Sun J*`**. Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities. _**Eye and Vision**_, 2026, 13(1): 4.
