@@ -15,6 +15,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
+8. **Zhang Z#**, Wu D#, Chen R, Zhai M, Yang F, Wang J, Guo L, Liu L, Ying J\*, Yang L\*, **`Zhou M*`**. <span style="color:Gray;">Single-cell spatial transcriptomics reveals tumor microenvironment heterogeneity in primary and lymph node-metastatic small cell lung cancer. _**Cell Reports Medicine**_, 2026, 102713.</span>
+[[Abstract]](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00130-8)
 7. **Zhang Z#**, **Bao S#**, Chen R#, Liu L, Yang F, Dong J, Sun X, Yang L\*, **`Zhou M*`**, Ying J\*. <span style="color:Gray;">Proteomic characterization of small cell lung cancer uncovers innate-adaptive immune dynamics and immunotherapeutic vulnerabilities. _**Genes & Diseases**_, 2026, 102143.</span>
 [[Abstract]](https://www.sciencedirect.com/science/article/pii/S2352304226001157)
 6. Tu Y#, **Yan C#**, Chen L#, Liu W, Hu X, Gao M, Rao W, Zhang J, Zhu J, Wu H, Zhang K\*, **`Zhou M*`**, Wu W\*. Retinal Capillary Density Reduction Contributes to Dysthyroid Optic Neuropathy via an L-Arginine-NO Pathway: A Metabonomics and Clinical Trial Study. _**MedComm**_, 2026, 7(3): e70652.
