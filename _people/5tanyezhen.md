@@ -1,7 +1,7 @@
 ---
 title: Yezhen Tan
 layout: people
-permalink: /people/tanyezhen.jpg
+permalink: /people/tanyezhen.jpeg
 status: Postdoctoral researcher
 pname: Yezhen Tan
 position: Postdoctoral researcher
