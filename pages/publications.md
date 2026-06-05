@@ -15,6 +15,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
+9. Yang L#, **Sheng R#**, **Yang Z#**, Zhang Y, Wang T, Yang F, Liu S\*, **`Zhou M*`**. Deep learning based histomorphological phenotyping and prognostic stratification for combined SCLC and LCNEC. _**npj Digital Medicine**_, 2026.
+[[Abstract]](https://www.nature.com/articles/s41746-026-02800-5#article-info)
 8. **Zhang Z#**, Wu D#, Chen R, Zhai M, Yang F, Wang J, Guo L, Liu L, Ying J\*, Yang L\*, **`Zhou M*`**. Single-cell spatial transcriptomics reveals tumor microenvironment heterogeneity in primary and lymph node-metastatic small cell lung cancer. _**Cell Reports Medicine**_, 2026, 7(4).
 [[Abstract]](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00130-8)
 7. **Zhang Z#**, **Bao S#**, Chen R#, Liu L, Yang F, Dong J, Sun X, Yang L\*, **`Zhou M*`**, Ying J\*. <span style="color:Gray;">Proteomic characterization of small cell lung cancer uncovers innate-adaptive immune dynamics and immunotherapeutic vulnerabilities. _**Genes & Diseases**_, 2026, 102143.</span>
