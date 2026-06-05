@@ -6,6 +6,9 @@ permalink: /news
 
 # News
 ### 2026
+#### May
+- Congratulations to Ruyu and Zijian on the publication of the paper "Deep learning based histomorphological phenotyping and prognostic stratification for combined SCLC and LCNEC" on _**npj Digital Medicine**_.
+
 #### March
 - Congratulations to Zicheng on the publication of the paper "Single-cell spatial transcriptomics reveals tumor microenvironment heterogeneity in primary and lymph node-metastatic small cell lung cancer" on _**Cell Reports Medicine**_.
 - Congratulations to Zicheng and Siqi on the publication of the paper "Proteomic characterization of small cell lung cancer uncovers innate-adaptive immune dynamics and immunotherapeutic vulnerabilities" on _**Genes & Diseases**_.
