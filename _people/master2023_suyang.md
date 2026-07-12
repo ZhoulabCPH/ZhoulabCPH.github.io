@@ -1,11 +1,11 @@
 ---
 title: Yang Su
 layout: people
-permalink: /people/master2023_suyang.jpg
+permalink: /people/doc2026_suyang.jpg
 status: Student
 pname: Yang Su
-position: Master student
-grade: 2023
+position: Ph.D. Candidate
+grade: 2026
 office: 
 eml: 
 website: 
