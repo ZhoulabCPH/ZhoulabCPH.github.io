@@ -35,7 +35,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 2. **Yan D#**, Xu J#, Wang D#, Xing Q#, He X, Wang D, Zhu B, Yu K\*, **`Zhou M*`**, Wang C\*. Plasma Proteome-Driven Liquid Biopsy for Individualized Monitoring and Risk Stratification of Immune-Related Adverse Events in Checkpoint Immunotherapy. _**Molecular**_ **&** _**cellular proteomics : MCP**_, 2026, 25(1):101488.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/41391830/)
 <span class='__dimensions_badge_embed__' data-pmid='41391830' data-style='large_rectangle' style='display: inline-block;'></span>
-1. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2026, 81:797–808.<span style="color:red;">（Highly Cited Papers）</span>
+1. **Zhang Z#**, **Zhai M**, **Bao S**, Sun X, Chen R, Wang B, Yang F, Yang L\*, **`Zhou M*`**. Integrative multi-omics profiling deciphers tumor microenvironment heterogeneity and immunotherapy vulnerabilities in lung neuroendocrine carcinomas. _**Journal of Advanced Research**_, 2026, 81:797–808.<span style="color:#8B0000;">（Highly Cited Papers）</span>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40513660/)
 <span class='__dimensions_badge_embed__' data-pmid='40513660' data-style='large_rectangle' style='display: inline-block;'></span>
 {: reversed="reversed"}
