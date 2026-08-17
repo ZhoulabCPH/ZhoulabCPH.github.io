@@ -6,6 +6,9 @@ permalink: /news
 
 # News
 ### 2026
+#### August
+- Congratulations to Zijian and Taolue on the publication of the paper "BraMARS: An Interpretable Histopathology-Driven Deep Learning Model for Brain Metastasis Risk Stratification in Surgically Resected Limited-Stage SCLC" on _**Advanced Science**_.
+
 #### May
 - Congratulations to Ruyu and Zijian on the publication of the paper "Deep learning based histomorphological phenotyping and prognostic stratification for combined SCLC and LCNEC" on _**npj Digital Medicine**_.
 
