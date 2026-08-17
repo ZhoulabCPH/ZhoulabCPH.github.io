@@ -15,6 +15,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
+10. **Yang Z#**, **Wang T#**, Liu S#, Zhang Z, Zhang Y, Yang F, Yu B, Gao S, Chen Y, Yang L\*, **`Zhou M*`**. BraMARS: An Interpretable Histopathology-Driven Deep Learning Model for Brain Metastasis Risk Stratification in Surgically Resected Limited-Stage SCLC. _**Advanced Science**_, 2026.
+[[Abstract]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77075)
 9. Yang L#, **Sheng R#**, **Yang Z#**, Zhang Y, Wang T, Yang F, Liu S\*, **`Zhou M*`**. Deep learning based histomorphological phenotyping and prognostic stratification for combined SCLC and LCNEC. _**npj Digital Medicine**_, 2026.
 [[Abstract]](https://www.nature.com/articles/s41746-026-02800-5#article-info)
 8. **Zhang Z#**, Wu D#, Chen R, Zhai M, Yang F, Wang J, Guo L, Liu L, Ying J\*, Yang L\*, **`Zhou M*`**. Single-cell spatial transcriptomics reveals tumor microenvironment heterogeneity in primary and lymph node-metastatic small cell lung cancer. _**Cell Reports Medicine**_, 2026, 7(4).
