@@ -15,7 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
-11. **Jingzhe Huang#**, **Ke Li#**, **Hongbo Zhang#**, Jiazhu Chen , **`Zhou M*`** , **`Sun J*`**. HOSCA: Human Ocular Single-Cell Atlas for Decoding Ocular Biology and Disease Complexity. _**Genomics, Proteomics & Bioinformatics**_, 2026, qzag090.
+11. **Huang J#**, **Li K#**, **Zhang H#**, Chen J, **`Zhou M*`** , **`Sun J*`**. HOSCA: Human Ocular Single-Cell Atlas for Decoding Ocular Biology and Disease Complexity. _**Genomics, Proteomics & Bioinformatics**_, 2026, qzag090.
 [[Abstract]](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzag090/8770542)
 10. **Yang Z#**, **Wang T#**, Liu S#, Zhang Z, Zhang Y, Yang F, Yu B, Gao S, Chen Y, Yang L\*, **`Zhou M*`**. BraMARS: An Interpretable Histopathology-Driven Deep Learning Model for Brain Metastasis Risk Stratification in Surgically Resected Limited-Stage SCLC. _**Advanced Science**_, 2026.
 [[Abstract]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77075)
