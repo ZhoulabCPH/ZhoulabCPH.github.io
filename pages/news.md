@@ -7,6 +7,7 @@ permalink: /news
 # News
 ### 2026
 #### August
+- Congratulations to Jingzhe, Ke and Hongbo on the publication of the paper "HOSCA: Human Ocular Single-Cell Atlas for Decoding Ocular Biology and Disease Complexity" on _**Genomics, Proteomics & Bioinformatics**_.
 - Congratulations to Zijian and Taolue on the publication of the paper "BraMARS: An Interpretable Histopathology-Driven Deep Learning Model for Brain Metastasis Risk Stratification in Surgically Resected Limited-Stage SCLC" on _**Advanced Science**_.
 
 #### May
