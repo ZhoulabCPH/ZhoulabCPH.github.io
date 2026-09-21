@@ -1,7 +1,7 @@
 ---
 title: Congcong Yan
 layout: people
-permalink: /people/yancongcong.jpeg
+permalink: /people/yancongcong.jpg
 status: Postdoctoral researcher
 pname: Congcong Yan
 position: Postdoctoral researcher
