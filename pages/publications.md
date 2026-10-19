@@ -15,22 +15,29 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
+13. Sun L#, Ke X#, Yu J#, Wei J, Gu J, Zhou W, Cen Y, Huang J, Zhang X, Zhang J, Zhang S, Liu X, Ji Y, Yan W, Pan S\*, **`Zhou M*`**, Wu W\*. A circRNA-microRNA-Pdcd1 axis drives microglial activation and retinal ganglion cell degeneration. _**Communications Biology**_, 2026.
+[[Abstract]](https://www.nature.com/articles/s42003-026-11139-2)
 12. **Shi X#**, Wang R#, Cao X, Dai M, Sun Y, Jiang D\*, Chen W\*, **`Zhou M*`**. Tear proteomic atlas of local host-response states in herpes simplex keratitis. _**The Ocular Surface**_, 2026.
-[[Abstract]](https://www.sciencedirect.com/science/article/abs/pii/S1542012426001175)
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/42679892/)
+<span class='__dimensions_badge_embed__' data-pmid='42679892' data-style='large_rectangle' style='display: inline-block;'></span>
 11. **Huang J#**, **Li K#**, **Zhang H#**, Chen J, **`Zhou M*`** , **`Sun J*`**. HOSCA: Human Ocular Single-Cell Atlas for Decoding Ocular Biology and Disease Complexity. _**Genomics, Proteomics & Bioinformatics**_, 2026, qzag090.
-[[Abstract]](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzag090/8770542)
-10. **Yang Z#**, **Wang T#**, Liu S#, Zhang Z, Zhang Y, Yang F, Yu B, Gao S, Chen Y, Yang L\*, **`Zhou M*`**. BraMARS: An Interpretable Histopathology-Driven Deep Learning Model for Brain Metastasis Risk Stratification in Surgically Resected Limited-Stage SCLC. _**Advanced Science**_, 2026.
-[[Abstract]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77075)
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/42640827/)
+<span class='__dimensions_badge_embed__' data-pmid='42640827' data-style='large_rectangle' style='display: inline-block;'></span>
+10. **Yang Z#**, **Wang T#**, Liu S#, Zhang Z, Zhang Y, Yang F, Yu B, Gao S, Chen Y, Yang L\*, **`Zhou M*`**. BraMARS: An Interpretable Histopathology-Driven Deep Learning Model for Brain Metastasis Risk Stratification in Surgically Resected Limited-Stage SCLC. _**Advanced Science**_, 2026, 9(1): 758.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/42598747/)
+<span class='__dimensions_badge_embed__' data-pmid='42598747' data-style='large_rectangle' style='display: inline-block;'></span>
 9. Yang L#, **Sheng R#**, **Yang Z#**, Zhang Y, Wang T, Yang F, Liu S\*, **`Zhou M*`**. Deep learning based histomorphological phenotyping and prognostic stratification for combined SCLC and LCNEC. _**npj Digital Medicine**_, 2026.
-[[Abstract]](https://www.nature.com/articles/s41746-026-02800-5#article-info)
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/42218257/)
+<span class='__dimensions_badge_embed__' data-pmid='42218257' data-style='large_rectangle' style='display: inline-block;'></span>
 8. **Zhang Z#**, Wu D#, Chen R, Zhai M, Yang F, Wang J, Guo L, Liu L, Ying J\*, Yang L\*, **`Zhou M*`**. Single-cell spatial transcriptomics reveals tumor microenvironment heterogeneity in primary and lymph node-metastatic small cell lung cancer. _**Cell Reports Medicine**_, 2026, 7(4).
-[[Abstract]](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00130-8)
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/41916294/)
+<span class='__dimensions_badge_embed__' data-pmid='41916294' data-style='large_rectangle' style='display: inline-block;'></span>
 7. **Zhang Z#**, **Bao S#**, Chen R#, Liu L, Yang F, Dong J, Sun X, Yang L\*, **`Zhou M*`**, Ying J\*. <span style="color:Gray;">Proteomic characterization of small cell lung cancer uncovers innate-adaptive immune dynamics and immunotherapeutic vulnerabilities. _**Genes & Diseases**_, 2026, 102143.</span>
 [[Abstract]](https://www.sciencedirect.com/science/article/pii/S2352304226001157)
 6. Tu Y#, **Yan C#**, Chen L#, Liu W, Hu X, Gao M, Rao W, Zhang J, Zhu J, Wu H, Zhang K\*, **`Zhou M*`**, Wu W\*. Retinal Capillary Density Reduction Contributes to Dysthyroid Optic Neuropathy via an L-Arginine-NO Pathway: A Metabonomics and Clinical Trial Study. _**MedComm**_, 2026, 7(3): e70652.
 [[Abstract]](https://onlinelibrary.wiley.com/doi/10.1002/mco2.70652)
 5. Li K#, **Tang J#**, **Zhang Z#**, Li X, Zheng Y, Jiang D\*, **`Sun J*`**. Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities. _**Eye and Vision**_, 2026, 13(1): 4.
-[[Abstract]](https://link.springer.com/article/10.1186/s40662-026-00473-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260201&utm_content=10.1186%2Fs40662-026-00473-5)
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/41620804/)
 <span class='__dimensions_badge_embed__' data-pmid='41620804' data-style='large_rectangle' style='display: inline-block;'></span>
 4. **Yang Z#**, **Zhang L#**, Li L#, Song Y, **`Sun J*`**, Meng F\*. <span style="color:Gray;">HRD-Informed Digital Histology Model for Predicting Platinum Chemo-Response and Prognosis in High-Grade Serous Ovarian Cancer. _**Interdisciplinary Sciences: Computational Life Sciences**_, 2026.</span> 
 [[Abstract]](https://link.springer.com/article/10.1007/s12539-025-00809-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260129&utm_content=10.1007/s12539-025-00809-0)
