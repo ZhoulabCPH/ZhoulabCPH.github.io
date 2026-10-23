@@ -63,7 +63,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 19. **Zhang Y#**, Liu S#, Chen J#, Chen R, **Yang Z**, **Sheng R**, **Li X**, **Wang T**, Liu H, Yang F, Ying J\*, Yang L\*, **`Sun J*`**, **`Zhou M*`**. Deep learning-based histomorphological subtyping and risk stratification of small cell lung cancer from hematoxylin and eosin-stained whole slide images. _**Genome Medicine**_, 2025, 17(1):98.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40898302/)
 <span class='__dimensions_badge_embed__' data-pmid='40898302' data-style='large_rectangle' style='display: inline-block;'></span>
-18. **Bao S#**, **Yang Z#**, **Zhang Z**, Qu J\*, **`Sun J*`**.  <span style="color:Gray;">AttResAMD: An Attention-Driven Deep Learning Framework for Expert-Level Automated Classification of Age-Related Macular Degeneration from Fundus Photography. _**Interdisciplinary Sciences: Computational Life Sciences**_, 2025.</span>
+18. **Bao S#**, **Yang Z#**, **Zhang Z**, Qu J\*, **`Sun J*`**.AttResAMD: An Attention-Driven Deep Learning Framework for Expert-Level Automated Classification of Age-Related Macular Degeneration from Fundus Photography. _**Interdisciplinary Sciences: Computational Life Sciences**_, 2025, 18:1468–1479.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/40885885/)
 <span class='__dimensions_badge_embed__' data-pmid='40885885' data-style='large_rectangle' style='display: inline-block;'></span>
 17. **Yan C#**, Yi Q#, Ge L, Huang Y, Yang C, Lin B\*, Jiang D\*, **`Zhou M*`**. Metabolomics analysis uncovers metabolic changes and remodeling of anti-VEGF therapy on macular edema. _**Eye and Vision**_, 2025, 12(1):28.
